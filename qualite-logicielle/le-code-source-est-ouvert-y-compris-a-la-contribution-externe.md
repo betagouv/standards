@@ -13,7 +13,7 @@ La licence du code est permissive (Apache-2.0, BSD-2, BSD-3, CECILL-B ou MIT).
 ## Critères
 
 - [ ] Le dépôt de code est accessible
-- [ ] Le public peut interragir avec l'équipe
+- [ ] Le public peut interagir avec l'équipe
 - [ ] La licence est ouverte et publiée
 
 ## Références
