@@ -1,4 +1,4 @@
-# L'équipe a entamé une démarche sur MonServiceSécurisé.
+# L'équipe a entamé une démarche sur MonServiceSécurisé
 
 ## Description
 
