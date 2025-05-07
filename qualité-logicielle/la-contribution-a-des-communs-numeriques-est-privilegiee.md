@@ -1,7 +1,8 @@
-# La contribution à des communs numériques est privilégiée
+# Le code est open source et réutilise des briques open-sources
 
 ## Description
 
+Le code est open-source.
 Le produit s'appuie sur des composants techniques open-source pérennes et
 reconnus.
 
