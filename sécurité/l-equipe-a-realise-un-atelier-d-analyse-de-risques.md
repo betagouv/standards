@@ -12,4 +12,4 @@ liés au projet, afin de mettre en place des mesures de mitigation.
 
 ## Ressources
 
-- [Analyse de risques](https://www.iso.org/iso-31000-risk-management.html)
+- [Analyse de risques - iso.org](https://www.iso.org/iso-31000-risk-management.html)

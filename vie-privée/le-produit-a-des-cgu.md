@@ -12,4 +12,4 @@ accessibles, définissant les droits et obligations des utilisateurs.
 
 ## Ressources
 
-- [Modèle de CGU](https://www.example.com/modele-cgu)
+- [Modèle de CGU - example.com](https://www.example.com/modele-cgu)
