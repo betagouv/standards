@@ -3,7 +3,7 @@
 ## Description
 
 Si les produits Beta sont voulus simples et faciles à utiliser, leur
-audience très large inclue forcément des profils qui n'ont pas le
+audience très large inclut forcément des profils qui n'ont pas le
 temps ou l'expérience nécessaire pour comprendre les subtilités de
 votre produit immédiatement.
 
