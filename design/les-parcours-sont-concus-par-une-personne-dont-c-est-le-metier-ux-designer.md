@@ -12,4 +12,4 @@ utilisateurs pour garantir une expérience fluide et intuitive.
 
 ## Ressources
 
-- [Ressources UX Design](https://uxdesign.cc/)
+- [Ressources UX Design - uxdesign.cc](https://uxdesign.cc/)

@@ -13,4 +13,4 @@ numériques.
 
 ## Ressources
 
-- [MonServiceSécurisé](https://www.monservicesecurise.fr/)
+- [MonServiceSécurisé - monservicesecurise.fr](https://www.monservicesecurise.fr/)

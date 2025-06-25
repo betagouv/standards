@@ -12,4 +12,4 @@ place pour garantir une réponse rapide et efficace en cas de problème.
 
 ## Ressources
 
-- [Gestion des incidents de sécurité](https://www.sans.org/incident-handlers-handbook/)
+- [Gestion des incidents de sécurité - sans.org](https://www.sans.org/incident-handlers-handbook/)

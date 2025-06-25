@@ -13,4 +13,4 @@ réglementations.
 
 ## Ressources
 
-- [Analyse d'impact sur la protection des données (AIPD)](https://www.cnil.fr/fr/PIA-privacy-impact-assessment)
+- [Analyse d'impact sur la protection des données (AIPD) - cnil.fr](https://www.cnil.fr/fr/PIA-privacy-impact-assessment)

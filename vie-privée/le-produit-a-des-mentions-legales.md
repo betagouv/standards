@@ -13,4 +13,4 @@ conditions d'utilisation.
 
 ## Ressources
 
-- [Guide des mentions légales](https://www.example.com/guide-mentions-legales)
+- [Guide des mentions légales - example.com](https://www.example.com/guide-mentions-legales)
