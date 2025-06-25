@@ -42,5 +42,5 @@ métriques : temps moyen des requêtes,
 
 ## Ressources
 
-- [Guide Sillon - Monitoring](https://sillon.incubateur.net/docs/monitoring/)
-- [Sentry sur la documentation Beta](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/autres-services/sentry)
+- [Monitoring - sillon.incubateur.net](https://sillon.incubateur.net/docs/monitoring/)
+- [Sentry hébergé - doc.incubateur.net](https://doc.incubateur.net/communaute/les-outils-de-la-communaute/autres-services/sentry)

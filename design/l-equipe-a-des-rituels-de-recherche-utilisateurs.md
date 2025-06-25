@@ -12,4 +12,4 @@ recueillir des retours et améliorer le produit.
 
 ## Ressources
 
-- [Méthodes de recherche UX](https://www.nngroup.com/articles/which-ux-research-methods/)
+- [Méthodes de recherche UX - nngroup.com](https://www.nngroup.com/articles/which-ux-research-methods/)

@@ -41,6 +41,6 @@ l'historique sans apporter de valeur documentaire.
 
 ## Ressources
 
-- [Nommmage des commits sur Sillon](https://sillon.incubateur.net/docs/document/commit-naming/)
-- [Write better commits sur le blog de GitHub](https://github.blog/developer-skills/github/write-better-commits-build-better-projects/)
-- [Maintaining version control in coding - GOV.UK](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding)
+- [Nommmage des commits - sillon.incubateur.net](https://sillon.incubateur.net/docs/document/commit-naming/)
+- [Write better commits sur le blog de GitHub - github.com](https://github.blog/developer-skills/github/write-better-commits-build-better-projects/)
+- [Maintaining version control in coding - gov.uk](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding)

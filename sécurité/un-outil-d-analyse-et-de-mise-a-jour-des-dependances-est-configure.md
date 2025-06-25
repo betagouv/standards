@@ -13,4 +13,4 @@ existent pour automatiser cette veille, comme
 
 ## Ressources
 
-- [Documentation Dependabot](https://docs.github.com/fr/code-security/getting-started/dependabot-quickstart-guide)
+- [Documentation Dependabot - docs.github.com](https://docs.github.com/fr/code-security/getting-started/dependabot-quickstart-guide)

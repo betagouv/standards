@@ -12,4 +12,4 @@ comment les données des utilisateurs sont collectées, utilisées et protégée
 
 ## Ressources
 
-- [Modèle de politique de confidentialité](https://www.example.com/modele-politique-confidentialite)
+- [Modèle de politique de confidentialité - example.com](https://www.example.com/modele-politique-confidentialite)
