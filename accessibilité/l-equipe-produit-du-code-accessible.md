@@ -16,7 +16,8 @@ doit s'assurer de mettre en oeuvre le maximum, par exemple :
 
 ## Critères
 
-- Le code produit est accessible.
+- Le code produit utilise le DSFR et une sémantique HTML accessible
+- Le code produit est pensé en intégrant des bonnes pratiques d'accessibilité
 
 ## Ressources
 
