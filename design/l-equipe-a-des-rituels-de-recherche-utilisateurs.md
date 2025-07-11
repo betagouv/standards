@@ -8,7 +8,7 @@ recueillir des retours et améliorer le produit.
 ## Critères
 
 - Des sessions de recherche sont planifiées régulièrement.
-- Les retours utilisateurs sont documentés et analysés.
+- Les retours utilisateurs sont documentés et analysés, en particulier ceux du support.
 
 ## Ressources
 
