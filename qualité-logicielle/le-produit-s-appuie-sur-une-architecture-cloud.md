@@ -33,13 +33,6 @@ défaillance d'un composant. Cette approche est particulièrement
 adaptée aux services publics qui peuvent connaître des pics d'usage
 imprévisibles.
 
-## Ressources
-
-- [Stratégie nationale pour le Cloud (DINUM)](https://www.numerique.gouv.fr/actualites/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/)
-- [SecNumCloud pour les fournisseurs de services Cloud (ANSSI)](https://cyber.gouv.fr/secnumcloud-pour-les-fournisseurs-de-services-cloud)
-- [FAQ SecNumCloud - avant de se lancer dans la qualification (ANSSI)](https://cyber.gouv.fr/faq-avant-de-se-lancer-dans-la-qualification-secnumcloud)
-- [Cloud commercial - Guide DINUM](https://www.numerique.gouv.fr/services/cloud/cloud-commercial/)
-
 ## Critères
 
 - l'équipe utilise des services d'hébergement cloud (IaaS, PaaS ou
@@ -50,3 +43,14 @@ imprévisibles.
   assurer la continuité de service
 - l'hébergement respecte les exigences de souveraineté et de sécurité
   applicables au service public
+
+## Ressources
+
+- [Offres d'hebergement fournie par beta.gouv.fr](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/tech/infra)
+- [Stratégie nationale pour le Cloud (DINUM)](https://www.numerique.gouv.fr/actualites/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/)
+- [SecNumCloud pour les fournisseurs de services Cloud (ANSSI)](https://cyber.gouv.fr/secnumcloud-pour-les-fournisseurs-de-services-cloud)
+- [FAQ SecNumCloud - avant de se lancer dans la qualification (ANSSI)](https://cyber.gouv.fr/faq-avant-de-se-lancer-dans-la-qualification-secnumcloud)
+- [Cloud commercial - Guide DINUM](https://www.numerique.gouv.fr/services/cloud/cloud-commercial/)
+- 
+
+
