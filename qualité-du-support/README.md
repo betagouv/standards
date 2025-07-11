@@ -1,4 +1,4 @@
-# Qualité du support
+# Support : nos services n'abandonnent pas leurs utilisateurs
 
 La qualité du support utilisateur détermine la confiance accordée à un
 service public numérique. Un support accessible, réactif et humain
@@ -24,3 +24,4 @@ honore les attentes citoyennes envers le service public.
   quels que soient leurs moyens ou compétences
 
 <https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/to-do-qualite-du-support>
+[L'article de l'ancien responsable de l'experience client de CaptainTrain](https://jonathanlefevre.com/articles/obsession-service-client-captain-train?source=post_page-----cb0b91467fd9---------------------------------------)
