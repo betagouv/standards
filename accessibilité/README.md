@@ -1,4 +1,4 @@
-# Accessibilité et inclusion
+# Accessibilité et inclusion : nos services n'excluent pas les usagers
 
 L'accessibilité n'est pas une option.
 
