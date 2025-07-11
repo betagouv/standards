@@ -29,7 +29,7 @@ Manquer aux obligations déclaratives est passible d'une amende de 20
 000 €, pour chaque année de manquement (l'obligation étant en vigueur
 depuis 2021).
 
-### Lien vers le schéma pluriannuel
+### Lien vers le schéma pluriannuel de son incubateur ou son organisation
 
 Le produit doit référencer la politique d’accessibilité de son
 organisation via un schéma pluri-annuel. Ce document contient entre
