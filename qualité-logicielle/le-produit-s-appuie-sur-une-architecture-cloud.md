@@ -46,11 +46,10 @@ imprévisibles.
 
 ## Ressources
 
-- [Offres d'hebergement fournie par beta.gouv.fr](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/tech/infra)
+- [Offres d'hébergement - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/tech/infra)
 - [Stratégie nationale pour le Cloud (DINUM)](https://www.numerique.gouv.fr/actualites/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/)
 - [SecNumCloud pour les fournisseurs de services Cloud (ANSSI)](https://cyber.gouv.fr/secnumcloud-pour-les-fournisseurs-de-services-cloud)
 - [FAQ SecNumCloud - avant de se lancer dans la qualification (ANSSI)](https://cyber.gouv.fr/faq-avant-de-se-lancer-dans-la-qualification-secnumcloud)
 - [Cloud commercial - Guide DINUM](https://www.numerique.gouv.fr/services/cloud/cloud-commercial/)
-- 
 
 
