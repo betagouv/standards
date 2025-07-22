@@ -16,5 +16,5 @@ sécurisée.
 
 ## Ressources
 
-- [Configurer le SSL sur Scalingo](https://doc.scalingo.com/platform/app/ssl)
-- [Header HTTP HSTS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
+- [Configurer le SSL sur Scalingo - doc.scalingo.com](https://doc.scalingo.com/platform/app/ssl)
+- [Header HTTP HSTS - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)

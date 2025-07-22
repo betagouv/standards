@@ -12,4 +12,4 @@ et maximiser l'efficacité.
 
 ## Ressources
 
-- [Low-tech Lab](https://lowtechlab.org/)
+- [Low-tech Lab - lowtechlab.org](https://lowtechlab.org/)

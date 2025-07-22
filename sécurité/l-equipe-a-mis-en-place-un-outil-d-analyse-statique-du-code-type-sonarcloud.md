@@ -12,5 +12,5 @@ vulnérabilités et améliorer la qualité du code.
 
 ## Ressources
 
-- [Analyser la qualité et la sécurité de votre code avec SonarCloud](https://apprendre-la-programmation.net/analyser-qualite-securite-code-sonarcloud/)
-- [SonarCloud](https://sonarcloud.io/)
+- [Analyser la qualité et la sécurité de votre code avec SonarCloud - apprendre-la-programmation.net](https://apprendre-la-programmation.net/analyser-qualite-securite-code-sonarcloud/)
+- [SonarCloud - sonarcloud.io](https://sonarcloud.io/)

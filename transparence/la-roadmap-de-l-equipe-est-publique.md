@@ -16,5 +16,5 @@ produit et son évolution technique.
 
 ## Ressources
 
-- [GitHub Projects](https://docs.github.com/fr/issues/planning-and-tracking-with-projects/learning-about-projects)
-- [Roadmap du GIP de l'Inclusion](https://github.com/orgs/gip-inclusion/projects/10)
+- [GitHub Projects - github.com](https://docs.github.com/fr/issues/planning-and-tracking-with-projects/learning-about-projects)
+- [Roadmap du GIP de l'Inclusion - github.com](https://github.com/orgs/gip-inclusion/projects/10)
