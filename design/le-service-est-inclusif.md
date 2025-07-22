@@ -14,6 +14,7 @@ Les services publics doivent fonctionner pour toutes celles et ceux qui ont beso
 
 ## Ressources
 
+[Qu'est-ce que l'inclusion - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/accessibilite-and-inclusion/rendre-un-service-inclusif/quest-ce-que-linclusion)
 - [Quelle politique pour les exclus du numérique ?](https://www.vie-publique.fr/eclairage/18930-dematerialisation-quelle-politique-pour-les-exclus-du-numerique)
 - [15% de la population française en situation d’illectronisme](https://emmaus-connect.org/2023/11/etude-insee-illectronisme-en-france-une-tendance-encourageante/)
 - [Illectronisme et numérisation des services publics](https://blocnotes.iergo.fr/articles/illectronisme-et-numerisation-des-services-publics/)
