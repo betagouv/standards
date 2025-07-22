@@ -12,5 +12,5 @@ Comprendre le contexte permet de mieux répondre aux besoins des usagers. En se 
 
 ## Ressources
 
-- [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
-- [La phase de recherche en web design](https://www.eyrolles.com/Audiovisuel/Livre/la-phase-de-recherche-en-web-design-9782212141467/)
+- [When to Use Which User-Experience Research Methods (en) - nngroup.com](https://www.nngroup.com/articles/which-ux-research-methods/)
+- [La phase de recherche en web design - livre](https://www.eyrolles.com/Audiovisuel/Livre/la-phase-de-recherche-en-web-design-9782212141467/)

@@ -13,5 +13,5 @@ fonctionnalités.
 
 ## Ressources
 
-- [Eco-conception numérique](https://ecoconception-numerique.com/)
-- [Référentiel général d'écoconception de services numériques (RGESN) - 2024](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/)
+- [Référentiel général de l’écoconception des services numériques (RGESN) - ARCEP](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html)
+- [Guide d'écoconception de services numériques - Designers Éthiques](https://designersethiques.org/fr/thematiques/ecoconception/guide-d-ecoconception)
