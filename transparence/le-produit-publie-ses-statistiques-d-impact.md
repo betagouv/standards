@@ -14,4 +14,4 @@ Le produit publie régulièrement ses statistiques d'impact.
 
 ## Ressources
 
-- [Définir et mesurer l'impact sur la documentation de l'incubateur](https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact)
+- [L'enjeu du pilotage par l'impact sur la documentation de l'incubateur](https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact)
