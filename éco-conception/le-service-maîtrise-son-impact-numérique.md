@@ -1,4 +1,4 @@
-# Le service est frugal
+# Le service maîtrise son impact numérique
 
 ## Description
 
@@ -6,7 +6,13 @@ Le service adopte une frugalité technique : hébergement, limitation des IA, mi
 
 ## Critères
 
-- TODO
+- Le service numérique limite ses propres impacts environnementaux.
+- Le service numérique a prévu une stratégie de maintenance et de décommissionnement.
+- Le service numérique fonctionne sur une architecture pouvant adapter la quantité de ressources utilisées à la consommation du service
+- TODO mise en cache
+- TODO limitation des IA ?
+- TODO hébergement ?
+
 
 ## Ressources
 
