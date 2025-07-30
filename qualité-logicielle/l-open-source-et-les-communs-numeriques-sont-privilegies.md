@@ -12,9 +12,7 @@ communauté et d'assurer la transparence et la réutilisabilité des
 solutions publiques.
 
 Votre équipe, sauf raison majeure, doit produire du code open-source
-et privilégier les communs numériques aux solutions propriétaires ou
-non-souveraines dès que possible, comme le veut la stratégie numérique
-de l'État élaborée par la DINUM.
+comme le veut la loi pour une république numérique.
 
 ## Critères
 
@@ -27,3 +25,4 @@ de l'État élaborée par la DINUM.
 - [Stratégie numérique de l'État](https://www.numerique.gouv.fr/numerique-etat/)
 - [Pôle open source et communs numériques](https://code.gouv.fr/fr/)
 - [Guide Sillon - Communauté & open source](https://sillon.incubateur.net/docs/community-and-open-source/)
+- [Loi pour une république numérique 2016](https://www.vie-publique.fr/eclairage/20301-loi-republique-numerique-7-octobre-2016-loi-lemaire-quels-changements)
