@@ -4,6 +4,23 @@
 
 Les services publics doivent fonctionner pour toutes celles et ceux qui ont besoin de les utiliser. Des services inclusifs et accessibles bénéficient à tout le monde : par exemple, l'utilisation de mots simples aide les personnes dont le français n'est pas la langue natale, les personnes souffrant d'un trouble de l'apprentissage mais aussi, par effet de bord, les personnes pressées.
 
+### Anticiper les non-recours
+
+En identifiant et en contactant proactivement les personnes éligibles à une aide, le service public s'assure que même ceux qui ne savent pas qu'ils peuvent bénéficier d'une assistance reçoivent le soutien dont ils ont besoin. Cette approche rend le service plus inclusif en touchant des populations souvent marginalisées ou moins informées.
+
+### Pratiquer le « Dites-le moi une fois »
+
+Le principe du « Dites-le moi une fois » simplifie les démarches administratives en évitant la répétition des informations, ce qui rend le service plus accessible et moins intimidant pour tous, notamment pour ceux qui ont des difficultés à naviguer dans les procédures complexes. Cela favorise l'inclusion en réduisant les obstacles pour les utilisateurs les plus vulnérables.
+
+### Proposer une alternative hors parcours numérique
+
+Offrir des alternatives aux services en ligne garantit que personne ne soit exclu en raison de son niveau de compétence numérique ou de son accès à internet. Cette pratique rend le service plus inclusif en assurant que tous les citoyens, indépendamment de leur situation, puissent accéder aux services essentiels.
+
+### Communiquer de manière claire et compréhensible
+
+Utiliser des mots simples et des phrases courtes rend les informations accessibles à un large public, y compris ceux qui ont des difficultés de lecture ou parlent une autre langue. Cette pratique favorise l'inclusion en permettant à tous de comprendre et de naviguer facilement dans les services publics, réduisant ainsi les inégalités d'accès.
+
+
 ## Critères
 
 - Le service anticipe le non-recours : il est pro-actif envers les personnes pouvant bénéficier d’une aide
