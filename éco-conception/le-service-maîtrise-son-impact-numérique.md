@@ -27,11 +27,11 @@ Ajuster dynamiquement la quantité de ressources utilisées en fonction de la de
 
 Une partie de l’empreinte énergétique des services numériques est liée à la volumétrie des données échangées sur les réseaux (en particulier lorsque les données sont transmises sur des réseaux radio comme les réseaux mobiles). Réduire le poids des données échangées est un axe important d'écoconception et améliore l'expérience utilisateur.
 
-La stratégie de cache doit être adaptée au contexte d’application et au type de contenus ; et peut être mise en place aussi bien côté client que côté serveur.
+La stratégie de cache doit être adaptée au contexte d’application et au type de contenus. Elle peut être mise en place aussi bien côté client que côté serveur.
 
 ### Hébergement
 
-Les centres de données représentent environ 15 % de l’empreinte carbone du numérique en France. Il convient de favoriser un hébergement qui suit son empreinte environnementale et a engagé une démarche proactive pour la réduire. Par exemple privilégier un hébergement :
+Les centres de données représentent environ 15 % de l’empreinte carbone du numérique en France ([étude ADEME-Arcep](https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique/etude-ademe-arcep-empreinte-environnemental-numerique-2020-2030-2050.html#c32943)). Il convient de favoriser un hébergement qui suit son empreinte environnementale et a engagé une démarche proactive pour la réduire. Par exemple privilégier un hébergement :
 - ayant une démarche de réduction de son empreinte environnementale
 - qui fournit une politique de gestion durable des équipements
 - dont le PUE (Power Usage Effectiveness) et le WUE (Water Usage Effectiveness) sont minimisés
