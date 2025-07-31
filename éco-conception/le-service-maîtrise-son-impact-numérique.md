@@ -29,17 +29,12 @@ Une partie de l’empreinte énergétique des services numériques est liée à 
 
 La stratégie de cache doit être adaptée au contexte d’application et au type de contenus. Elle peut être mise en place aussi bien côté client que côté serveur.
 
-### Hébergement
-
-Les centres de données représentent environ 15 % de l’empreinte carbone du numérique en France ([étude ADEME-Arcep](https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique/etude-ademe-arcep-empreinte-environnemental-numerique-2020-2030-2050.html#c32943)). Il convient de favoriser un hébergement qui suit son empreinte environnementale et a engagé une démarche proactive pour la réduire. 
-
 ## Critères
 
 - Le service numérique limite ses propres impacts environnementaux.
 - Le service numérique a prévu une stratégie de décommissionnement en cas de fin de service.
 - Le service numérique fonctionne sur une architecture pouvant adapter la quantité de ressources utilisées à la consommation du service.
 - Le service numérique utilise des mécanismes de mises en cache.
-- Le service privilégie un hébergement écoresponsable
 
 ## Ressources
 
