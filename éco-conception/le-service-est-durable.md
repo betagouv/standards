@@ -16,7 +16,7 @@ L’interopérabilité des standards est un vecteur pour allonger la durée d’
 
 ### Compatibilité des vieux appareils
 
-Les terminaux représentent 65 à 90% de l’empreinte environnementale du numérique selon l’indicateur considéré (selon une étude ADEME-Arcep), en particulier leur fabrication. L’allongement de la durée de vie des terminaux est donc un levier essentiel de réduction des impacts environnementaux du numérique. Le service numérique doit limiter sa contribution à leur obsolescence en fonctionnant sur des équipements les plus anciens possibles.
+Les terminaux représentent 65 à 90% de l’empreinte environnementale du numérique selon l’indicateur considéré (selon [une étude ADEME-Arcep](https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique/etude-ademe-arcep-empreinte-environnemental-numerique-2020-2030-2050.html)), en particulier leur fabrication. L’allongement de la durée de vie des terminaux est donc un levier essentiel de réduction des impacts environnementaux du numérique. Le service numérique doit limiter sa contribution à leur obsolescence en fonctionnant sur des équipements les plus anciens possibles.
 
 Par exemple, une service numérique devrait être utilisable sur les équipements équipés d’un microprocesseur mis sur le marché il y a dix ans ou plus. Cette bonne pratique n’exclut pas l’usage de fonctionnalités récentes permettant la réduction des impacts environnementaux à l’usage, tant que le service reste disponible sur les anciennes versions (principe d’amélioration progressive).
 
