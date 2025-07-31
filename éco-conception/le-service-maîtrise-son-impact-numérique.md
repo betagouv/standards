@@ -12,8 +12,8 @@ La [matrice d'analyse des externalités](https://designersethiques.org/fr/themat
 
 ### Maintenance
 
-Les environnements techniques (test, environnement de développement, sauvegarde...) peuvent occuper des ressources inutilement. En prévoyant la possible fin de vie d'un service, on peut diminuer l'impact de ce dernier. Il est ainsi utile de :
-- Définir et mettre à jour régulièrement une stratégie de maintenance et décommissionnement des environnements.
+Les environnements techniques (test, environnement de développement, sauvegarde...) peuvent occuper des ressources inutilement. En prévoyant la possible fin de vie d'un service, on peut diminuer l'impact de ce dernier. Par exemple :
+- Définir une stratégie de maintenance et décommissionnement des environnements.
 - Anticiper l’avenir des données (non personnelles) collectées pour prévoir, par exemple, leur suppression ou leur mise en open data.
 
 ### Architecture évolutive
