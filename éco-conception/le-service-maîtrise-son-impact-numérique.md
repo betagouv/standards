@@ -31,16 +31,7 @@ La stratégie de cache doit être adaptée au contexte d’application et au typ
 
 ### Hébergement
 
-Les centres de données représentent environ 15 % de l’empreinte carbone du numérique en France ([étude ADEME-Arcep](https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique/etude-ademe-arcep-empreinte-environnemental-numerique-2020-2030-2050.html#c32943)). Il convient de favoriser un hébergement qui suit son empreinte environnementale et a engagé une démarche proactive pour la réduire. Par exemple privilégier un hébergement :
-- ayant une démarche de réduction de son empreinte environnementale
-- qui fournit une politique de gestion durable des équipements
-- dont le PUE (Power Usage Effectiveness) et le WUE (Water Usage Effectiveness) sont minimisés
-- dont la consommation d’électricité est majoritairement d’origine renouvelable
-- dont la localisation géographique est cohérente avec ses activités
-- qui récupère la chaleur fatale produite par les serveurs
-- qui héberge de façon distincte les données « chaudes » et « froides »
-- qui duplique les données uniquement lorsque cela est nécessaire
-- ...
+Les centres de données représentent environ 15 % de l’empreinte carbone du numérique en France ([étude ADEME-Arcep](https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique/etude-ademe-arcep-empreinte-environnemental-numerique-2020-2030-2050.html#c32943)). Il convient de favoriser un hébergement qui suit son empreinte environnementale et a engagé une démarche proactive pour la réduire. 
 
 ## Critères
 
