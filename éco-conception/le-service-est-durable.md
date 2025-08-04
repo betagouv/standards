@@ -28,6 +28,6 @@ Par exemple, une service numérique devrait être utilisable sur les équipement
 
 ## Ressources
 
-- [Référentiel général de l’écoconception des services numériques (RGESN) - ARCEP](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html)
-- [Guide d'écoconception de services numériques - Designers Éthiques](https://designersethiques.org/fr/thematiques/ecoconception/guide-d-ecoconception)
+- [Référentiel général de l’écoconception des services numériques (RGESN) - arcep.fr](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html)
+- [Guide d'écoconception de services numériques - designersethiques.org](https://designersethiques.org/fr/thematiques/ecoconception/guide-d-ecoconception)
 

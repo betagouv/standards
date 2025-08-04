@@ -38,6 +38,6 @@ La stratégie de cache doit être adaptée au contexte d’application et au typ
 
 ## Ressources
 
-- [Référentiel général de l’écoconception des services numériques (RGESN) - ARCEP](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html)
-- [Matrice d'analyse des externalités](https://designersethiques.org/fr/thematiques/design-systemique/matrice-analyse-externalites)
-- [L'hébergement numérique écologique : Une politique de gestion durable des équipements](https://blog.octo.com/l%27hebergement-numerique-ecologique--une-politique-de-gestion-durable-des-equipements)
+- [Référentiel général de l’écoconception des services numériques (RGESN) - arcep.fr](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html)
+- [Matrice d'analyse des externalités - designersethiques.org](https://designersethiques.org/fr/thematiques/design-systemique/matrice-analyse-externalites)
+- [L'hébergement numérique écologique : Une politique de gestion durable des équipements - octo.com](https://blog.octo.com/l%27hebergement-numerique-ecologique--une-politique-de-gestion-durable-des-equipements)

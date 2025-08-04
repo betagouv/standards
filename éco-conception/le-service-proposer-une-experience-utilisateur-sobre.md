@@ -34,6 +34,6 @@ Une partie importante du trafic sur internet est liée au visionnage de vidéos.
 
 ## Ressources
 
-- [Référentiel général de l’écoconception des services numériques (RGESN) - ARCEP](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html)
-- [Guide d'écoconception de services numériques - Designers Éthiques](https://designersethiques.org/fr/thematiques/ecoconception/guide-d-ecoconception)
-- [La méthode Kano - Notes UX](https://blog.hello-bokeh.fr/2018/11/21/la-methode-kano/)
+- [Référentiel général de l’écoconception des services numériques (RGESN) - arcep.fr](https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html)
+- [Guide d'écoconception de services numériques - designersethiques.org](https://designersethiques.org/fr/thematiques/ecoconception/guide-d-ecoconception)
+- [La méthode Kano - hello-bokeh.fr](https://blog.hello-bokeh.fr/2018/11/21/la-methode-kano/)
