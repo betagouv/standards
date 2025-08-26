@@ -7,10 +7,9 @@ ce fondement qu'elle se distingue du mode projet traditionnel, en [se
 concentrant sur les besoins des usagers plutôt que ceux de
 l'administration](https://beta.gouv.fr/manifeste).
 
-Pour rester connecté à ses utilisateurs et utilisatrices, votre équipe
+Pour rester connecté à ses utilisateurs et utilisatrices et comprendre comment ils utilisent votre service, votre équipe
 doit pratiquer la recherche utilisateur grâce aux nombreuses méthodes
-disponibles pour mieux comprendre comment est utilisé votre
-service, par exemple :
+disponibles par exemple :
 
 - la cartographie du parcours global ([service blueprint][1],
   [experience map][2])
@@ -28,6 +27,7 @@ votre produit.
 ## Critères
 
 - L'équipe intègre un processus de recherche utilisateur
+- L'équipe réalise régulièrement une recherche utilisateur
 
 ## Ressources
 
