@@ -34,7 +34,7 @@ Pour y parvenir, trois mesures essentielles s'imposent :
 - L'équipe a identifié qui risque d'être exclu du service numérique
 - Au moins une alternative non-numérique fonctionne (téléphone, guichet,
   partenaires locaux)
-- Le service évite de demander plusieurs fois les mêmes informations
+- Le service applique le "[dite le nous une fois](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037313155/)" et évite de demander plusieurs fois les mêmes informations
 
 ## Ressources
 
