@@ -26,7 +26,7 @@ traitement des réponses avec des délais clairs.
 - Le service propose au moins deux canaux de contact différents
 - L'équipe n'utilise pas d'adresse e-mail bloquante ("no-reply",
   "ne-pas-repondre", etc)
-- L'équipe suit et analyse les retours pour améliorer le service
+- L'équipe suit et analyse les retours utilisateurs pour améliorer le service
 
 ## Ressources
 
