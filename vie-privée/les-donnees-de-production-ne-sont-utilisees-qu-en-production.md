@@ -2,9 +2,8 @@
 
 ## Description
 
-Particulièrement dans le numérique de l'État qui confère parfois
-l'accès à des données strictement confidentielles, vous devez vous
-assurer que vos données de production ne sont utilisées qu'en
+En produisant des services publics, vous serez sans doute en contact avec des données confidentielles (secrets commerciaux, données personnelles de citoyens). Vous devez vous
+assurer que vos données de production sont utilisées **uniquement** en
 production, et que vos jeux de données test n'incluent pas des
 informations qui ressemblent de près ou de loin à vos vraies données.
 
