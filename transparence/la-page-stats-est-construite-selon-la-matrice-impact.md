@@ -29,7 +29,7 @@ de l’argent public.
 
 - les indicateurs sont mis à jour avant chaque comité
 
-## Ressource 
+## Ressource
 
 - [La matrice impact et l'enjeu du pilotage par l'impact](https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact)
 
