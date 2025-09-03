@@ -1,4 +1,4 @@
-# L'équipe a des rituels qui facilitent la collaboration au sein de ses membres.
+# L'équipe a des rituels qui facilitent la collaboration au sein de ses membres
 
 ## Description
 
@@ -15,11 +15,14 @@ pratiques du feedback.
 la cohésion d'équipe (retrospéctive).
 
 ## Critères
+
 - L'équipe organise régulièrement des rituels.
+
 - Chaque rituel a un but, une durée limitée, un propriétaire, un ordre du jour
 type, un résultat tangible.
+
 - Les décisions prises sont documentées.
+
 - Le rituel est réguliérement revu pour être amélioré.
 
 ## Ressources
-
