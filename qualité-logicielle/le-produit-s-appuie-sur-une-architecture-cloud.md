@@ -51,5 +51,3 @@ imprévisibles.
 - [SecNumCloud pour les fournisseurs de services Cloud (ANSSI)](https://cyber.gouv.fr/secnumcloud-pour-les-fournisseurs-de-services-cloud)
 - [FAQ SecNumCloud - avant de se lancer dans la qualification (ANSSI)](https://cyber.gouv.fr/faq-avant-de-se-lancer-dans-la-qualification-secnumcloud)
 - [Cloud commercial - Guide DINUM](https://www.numerique.gouv.fr/services/cloud/cloud-commercial/)
-
-
