@@ -1,4 +1,4 @@
-# Support : nos services n'abandonnent pas leurs utilisateurs
+# Qualité du support
 
 La qualité du support utilisateur détermine la confiance accordée à un
 service public numérique. Un support accessible, réactif et humain
