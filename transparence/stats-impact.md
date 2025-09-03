@@ -2,9 +2,16 @@
 
 ## Description
 
-L'analyse de l'impact est un exercice difficile et évolutif : afin d'accompagner les équipes, une matrice d'impact permet à l'équipe de choisir les bons indicateurs pour évaluer son impact.
-Cette matrice est commune à l'ensemble des services numériques publics.
-Ces indicateurs permette d'évaluer ponctuellement l'impact atteint par le sevrice.
+L'analyse de l'impact est un exercice difficile et évolutif : pour guider ce travail, une matrice d'impact permet à l'équipe de choisir les bons indicateurs pour évaluer l'impact de son service numérique.
+Cette matrice est commune à l'ensemble des services numériques publics et propose 5 concepts pour analyser l'impact du service :
+
+- est-il utilisable ?
+- est-il utilisé ?
+- est-il utile ?
+- a-t-il de l'impact ?
+- est-il efficient ?
+
+Ces indicateurs permettent d'évaluer ponctuellement l'impact atteint par le service afin de garantir son utilité, son exemplarité et une bonne dépense de l’argent public.
 
 ## Critère
 
@@ -13,4 +20,4 @@ Ces indicateurs permette d'évaluer ponctuellement l'impact atteint par le sevri
 
 ## Ressource 
 - [La matrice impact et l'enjeu du pilotage par l'impact](https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact)
-- Vous pouvez contacter l'équipe FAST ou votre incubateur pour vous accompagner dans l'utilisation de cette matrice impact
+- Vous pouvez contacter l'équipe FAST ou votre incubateur pour vous accompagner dans l'utilisation de cette matrice impact.
