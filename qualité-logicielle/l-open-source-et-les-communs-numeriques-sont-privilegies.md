@@ -13,6 +13,9 @@ solutions publiques.
 
 Votre équipe, sauf raison majeure, doit produire du code open-source
 comme le veut la loi pour une république numérique.
+Elle doit aussi privilégier les communs numériques aux solutions propriétaires ou
+non-souveraines dès que possible, comme le veut la stratégie numérique
+de l'État élaborée par la DINUM.
 
 ## Critères
 
