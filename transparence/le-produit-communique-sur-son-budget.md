@@ -19,12 +19,12 @@ Cette transparence budgétaire a plusieurs vertus :
 1. Elle permet aux équipes d'engager une discussion budgétaire transparente en
 interne et avec leurs sponsor.
 2. Elle fournit des exemples de budgets et leur répartition, utile aux nouveaux
-services de la communauté pour leur prévision 
+services de la communauté pour leur prévision
 3. Elle facilite la comparaison entre les services numériques que ce soit au
 sein de la communauté ou avec les autre produits numériques publics : le
 référentiel budgétaire ayant vocation à être utilisé par l'ensemble des produits
 numériques de l'Etat.
-   
+
 ### Saisie du budget de votre produit
 
 Toutes les informations pour publier votre budget sont dans la documentation de
