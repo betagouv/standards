@@ -19,7 +19,9 @@ propose 5 concepts pour analyser l'impact du service :
 
 - est-il efficient ?
 
-Ces indicateurs permettent d'évaluer ponctuellement l'impact atteint par le service afin de garantir son utilité, son exemplarité et une bonne dépense de l’argent public.
+Ces indicateurs permettent d'évaluer ponctuellement l'impact atteint par le
+service afin de garantir son utilité, son exemplarité et une bonne dépense
+de l’argent public.
 
 ## Critère
 
@@ -31,4 +33,5 @@ Ces indicateurs permettent d'évaluer ponctuellement l'impact atteint par le ser
 
 - [La matrice impact et l'enjeu du pilotage par l'impact](https://doc.incubateur.net/communaute/gerer-son-produit/guide-de-financement-des-startups-detat/4.-lenjeu-du-pilotage-par-limpact)
 
-- Vous pouvez contacter l'équipe FAST ou votre incubateur pour vous accompagner dans l'utilisation de cette matrice impact.
+- Vous pouvez contacter l'équipe FAST ou votre incubateur pour vous accompagner
+dans l'utilisation de cette matrice impact.
