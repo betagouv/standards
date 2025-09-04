@@ -7,11 +7,11 @@ La méthodologie AARRI - Acquisition, Activation, Rétention, Referral, Impact -
 L'impact du cycle de vie de l'usager correspond à l’impact cumulé pour l'usager sur l'ensemble du temps où ce dernier utilise le service. Dans le secteur privé, on parle de lifetime value (LTV).
 Le coût d'acquisition d'un usager correspond à l'ensemble des coûts supportés par votre service pour que l’usager utilise le produit.
 
-**Acquisition** : attirer de nouveaux utilisateurs et les amener à découvrir votre produit ou service.
-**Activation** : convertir les utilisateurs de visiteurs à usager : ils ont utilisé votre produit et bénéficié une première fois de votre proposition de valeur.
-**Rétention** :  s’assurer que les utilisateurs réutilisent votre produit.
-**Referral** : encourager les utilisateurs à recommander votre service.
-**Impact** : transformer l’usage en valeur d’impact.
+- **Acquisition** : attirer de nouveaux utilisateurs et les amener à découvrir votre produit ou service.
+- **Activation** : convertir les utilisateurs de visiteurs à usager : ils ont utilisé votre produit et bénéficié une première fois de votre proposition de valeur.
+- **Rétention** :  s’assurer que les utilisateurs réutilisent votre produit.
+- **Referral** : encourager les utilisateurs à recommander votre service.
+- **Impact** : transformer l’usage en valeur d’impact.
 
 ## Critère
 
