@@ -9,27 +9,33 @@ la Cour des comptes a réaffirmé la nécessité de publier le budget et
 les objectifs d'impact de chaque équipe.
 
 La bonne tenue et publication de votre budget assure la transparence
-financière auprès des citoyens et permet la comparaison entre services
-numériques publics.
+financière et l'engagement des parties prenantes autour de votre produit.
 
 ### Les vertus de la transparence budgétaire
 
 Cette transparence budgétaire a plusieurs vertus :
 
-1. Elle permet aux équipes d'engager une discussion budgétaire transparente en
-interne et avec leurs sponsors.
-2. Elle fournit des exemples de budgets et leur répartition, utile aux nouveaux
-services de la communauté pour leur prévision.
-3. Elle facilite la comparaison entre les services numériques que ce soit au
-sein de la communauté ou avec les autre produits numériques publics : le
-référentiel budgétaire ayant vocation à être utilisé par l'ensemble des produits
-numériques de l'Etat.
+1. Elle permet aux équipes des services de prendre du recul
+2. Elle apporte une contribution essentielle à la communauté en
+   permettant aux nouveaux services d'avoir une vision éclairée de la
+   façon dont se structure un budget et les ressources à mobiliser en
+   fonction des ambitions
+3. Elle fournit un outil essentiel de comparaison de coûts et de
+   sécurisation budgétaire entre les services de beta.gouv.fr et les
+   projets système d'informations (SI) de l'État. En effet, le
+   référentiel du modèle budgétaire a été travaillé en commun avec les
+   différentes directions du numérique (DNUM). Il a donc vocation à
+   être utilisé par les services de l'écosystème mais également par
+   les projets numériques ayant recours au marché Beta ainsi que par
+   les projets numériques ne travaillant pas en mode produit agile à
+   impact.
 
 ### Saisie du budget de votre produit
 
-Toutes les informations pour publier votre budget sont dans la documentation de
-la communauté["Publier son budget"](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/transparence/publier-son-budget)
-.Vous y trouverez le référentiel
+Pour vous aider à publier votre budget, nous mettons à votre
+disposition la page ["Publier son
+budget"](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/transparence/publier-son-budget)
+sur la documentation de l'incubateur. Vous y trouverez le référentiel
 que nous demandons aux équipes de respecter, et un document Grist
 commun qui nous permettra de mieux comprendre et analyser nos
 dépenses.
