@@ -2,8 +2,9 @@
 
 ## Description
 
-L'équipe choisit un indicateur prioritaire - North Star Metric ou Etoile du Nord
-- à améliorer pour augmenter son impact.
+L'équipe choisit un indicateur prioritaire - North Star Metric ou Étoile du
+Nord - à améliorer pour augmenter son impact.
+
 Toutes les actions engagées devront participer à l'amélioration de cet
 indicateur : il permet donc de prioriser et piloter au quotidien l'équipe.
 
