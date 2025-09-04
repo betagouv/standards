@@ -4,7 +4,7 @@
 
 Le déploiement ne consiste pas seulement à avoir des nouveaux utilisateurs : il
 faut s'assurer qu'ils réutilisent le service voir qu'ils en deviennent les
-promoteurs. 
+promoteurs.
 
 La méthodologie AARRI - Acquisition, Activation, Rétention, Referral, Impact -
 en suivant comment les usagers utilisent le produit, permet d'optimiser les
@@ -33,4 +33,5 @@ L’équipe suit la méthodologie AARRI.
 
 ## Ressources
 
-La [documentation beta.gouv.fr](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition#offre-de-service) sur la méthode AARRI et le growth hacking.
+La [documentation beta.gouv.fr](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/growth-hacking-acquisition#offre-de-service)
+sur la méthode AARRI et le growth hacking.
