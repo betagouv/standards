@@ -9,7 +9,7 @@ vulnérabilités. Principalement la
 de fonctions dangereuses, vulnérables ou mal paramétrées.
 
 Attention toutefois, c'est un outil **nécessaire mais pas suffisant**, il est
-inéfficace pour la détections d'un grand nombre de vulnérabilités, 
+inefficace pour la détection d'un grand nombre de vulnérabilités, 
 particulièrement les failles de logique métier ou de contrôle d'accès.
 
 ## Où le mettre en place
@@ -22,30 +22,30 @@ Vous pouvez installer ces outils :
 ## Quels outils utiliser ?
 
 Vous êtes libre d'utiliser l'outil SAST qui vous semble le plus pertinent.
-Toutefois voici quelques recommandations 
+Toutefois, voici quelques recommandations :
 
 ### Pour les utilisateurs de GitHub
 
-Github permet d'utiliser gratuitement son SAST
+GitHub permet d'utiliser gratuitement son SAST
 [CodeQL](https://codeql.github.com/) sur les projets open source, un outil
 multilangage très puissant d'analyse de code, configurable sur chacune de vos
 interactions Git.
 
-### Pour les projet Rails
+### Pour les projets Rails
 
 Le SAST spécialisé **[brakeman](https://brakemanscanner.org/)** est le plus
-efficace pour les applications rails.
+efficace pour les applications Rails.
 
 ## Autres
 
-Consulter le projet <https://github.com/Saluki/awesome-static-analysis>
+Consultez le projet <https://github.com/Saluki/awesome-static-analysis>
 
 ## Critères
 
-* [] Un outil d'analyse statique du code est en place dans votre pipeline CI/CD
+* [ ] Un outil d'analyse statique du code est en place dans votre pipeline CI/CD
 
 ## Ressources
 
 * [OWASP - Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 * [Configurer CodeQL - github.com](https://docs.github.com/fr/code-security/code-scanning/enabling-code-scanning/configuring-default-setup-for-code-scanning)
-* [Référencement d'outil d'analyse statique de code - github.com](https://github.com/Saluki/awesome-static-analysis)
+* [Référencement d'outils d'analyse statique de code - github.com](https://github.com/Saluki/awesome-static-analysis)
