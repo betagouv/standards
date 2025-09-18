@@ -1,24 +1,44 @@
-# L'équipe a mis en place un outil d'analyse statique du code
+# L'équipe a mis en place un outil d'analyse statique du code (SAST)
 
 ## Description
 
-L'analyse statique du code fournit une relecture de votre code et
-permet de déceler toute sorte de problèmes : complexité des fonctions,
-failles de sécurité, injections SQL, requêtes inefficientes, etc.
+Un SAST (Static Analysis Security Tool) analyse le code que vous produisez sous
+l'angle de la sécurité et permet de déceler au plus tôt **certains types** de 
+vulnérabilités. Principalement la
+[classe injection](https://owasp.org/www-community/Injection_Flaws) et l'usage 
+de fonctions dangereuses, vulnérables ou mal paramétrées.
 
-Bien que les linters effectuent une première analyse statique de votre
-code, ils se concentrent généralement sur l'esthétique et le formatage
-de votre source : un outil spécialisé permet d'approfondir l'analyse
-et de corriger des erreurs plus graves que celles signalées par le
-linter.
+Attention toutefois, c'est un outil **nécessaire mais pas suffisant**, il est
+inéfficace pour la détections d'un grand nombre de vulnérabilités, 
+particulièrement les failles de logique métier ou de contrôle d'accès.
 
-Si votre code est hébergé sur GitHub vous pouvez profiter de
-[CodeQL](https://codeql.github.com/), un outil très puissant d'analyse
-de code configurable sur chacune de vos interactions Git.
+## Où le mettre en place
+
+Vous pouvez installer ces outils :
+* à minima dans votre pipeline CI/CD
+* dans votre IDE via un plugin
+
+## Quels outils utiliser ?
+
+Vous êtes libre d'utiliser l'outil SAST qui vous semble le plus pertinent.
+Toutefois voici quelques recommandations 
+
+### Pour les utilisateurs de GitHub
+Github permet d'utiliser gratuitement son SAST
+[CodeQL](https://codeql.github.com/) sur les projets open source, un outil 
+multilangage très puissant d'analyse de code, configurable sur chacune de vos 
+interactions Git. 
+
+### Pour les projet Rails
+Le SAST spécialisé **[brakeman](https://brakemanscanner.org/)** est le plus
+efficace pour les applications rails.
+
+## Autres
+Consulter le projet https://github.com/Saluki/awesome-static-analysis
 
 ## Critères
 
-- Un outil d'analyse statique du code est en place
+- Un outil d'analyse statique du code est en place dans votre pipeline CI/CD
 
 ## Ressources
 
