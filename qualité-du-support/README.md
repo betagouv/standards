@@ -24,3 +24,4 @@ honore les attentes citoyennes envers le service public.
   quels que soient leurs moyens ou compétences
 
 <https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/to-do-qualite-du-support>
+["Obsession Service Client" - article d'un ancien de CaptainTrain](https://jonathanlefevre.com/articles/obsession-service-client-captain-train?source=post_page-----cb0b91467fd9---------------------------------------)
