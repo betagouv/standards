@@ -46,8 +46,9 @@ Le résultat de ces réflexions pourrons alimenter votre analyse de risque.
 
 ## Critères
 
- - [ ] L'équipe à enregistré son service sur "Mon Service Sécurisé"
- - [ ] L'équipe alimente régulièrement l'Analyse de risque
+ - [ ] L'équipe a enregistré son service sur "Mon Service Sécurisé"
+ - [ ] L'équipe a défini un processus pour l'alimentation régulière de son
+analyse de risque
 
 ## Ressources
 
