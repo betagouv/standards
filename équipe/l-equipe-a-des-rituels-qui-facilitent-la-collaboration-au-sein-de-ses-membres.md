@@ -5,7 +5,7 @@
 Des rituels d’équipe réguliers et adaptés sont des accélérateurs d’exécution
 et améliorent l'environnement de travail :
 
-- Ils synchronisent les priorités et clarifient les décisions (dayly, hedbo,
+- Ils synchronisent les priorités et clarifient les décisions (daily, hebdo,
 mensuel).
 
 - Ils ancrent l’amélioration continue : boucles d’apprentissage courtes et
