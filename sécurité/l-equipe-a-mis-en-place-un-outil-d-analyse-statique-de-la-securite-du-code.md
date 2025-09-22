@@ -1,12 +1,13 @@
-# L'équipe a mis en place un outil d'analyse statique du code (SAST)
+# L'équipe a mis en place un outil d'analyse statique de la sécurité du code
 
 ## Description
 
-Un SAST (Static Analysis Security Tool) analyse le code que vous produisez sous
-l'angle de la sécurité et permet de déceler au plus tôt **certains types** de
-vulnérabilités. Principalement des vulnérabilités de la
-[classe injection](https://owasp.org/www-community/Injection_Flaws) et l'usage
-de fonctions dangereuses, vulnérables ou mal paramétrées.
+Un outil d'analyse statique de la sécurité du code ou SAST (Static Analysis
+Security Tool) analyse le code que vous produisez sous l'angle de la sécurité et
+permet de déceler au plus tôt **certains types** de vulnérabilités.
+Principalement des vulnérabilités de type
+[injection](https://owasp.org/www-community/Injection_Flaws) et l'usage de
+fonctions dangereuses, vulnérables ou mal paramétrées.
 
 Attention toutefois, c'est un outil **nécessaire mais pas suffisant**, il est
 inefficace pour la détection d'un grand nombre de vulnérabilités,

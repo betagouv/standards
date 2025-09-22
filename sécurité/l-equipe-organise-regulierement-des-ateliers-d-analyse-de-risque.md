@@ -29,7 +29,7 @@ progressive de l'analyse de risque.
 Il vous permet d'évaluer les besoins de sécurité de votre service (Basiques,
 Modérés, Avancés) pour vous proposer des mesures de sécurité adaptées.
 
-### Threat Modeling
+### Modélisation de Menaces - Threat Modeling
 
 En mode Agile, une méthode efficace est pour chaque nouvelle fonctionnalité,
 de se poser les questions suivantes :
@@ -47,7 +47,7 @@ Le résultat de ces réflexions pourrons alimenter votre analyse de risque.
 ## Critères
 
  - [ ] L'équipe à enregistré son service sur "Mon Service Sécurisé"
- - [ ] L'équipe alimente régulièrement l'analyse de risque
+ - [ ] L'équipe alimente régulièrement l'Analyse de risque
 
 ## Ressources
 
