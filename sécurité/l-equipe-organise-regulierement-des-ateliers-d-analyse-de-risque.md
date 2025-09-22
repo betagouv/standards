@@ -2,28 +2,55 @@
 
 ## Description
 
-Votre produit est amené à évoluer souvent, avec votre compréhension du
-problème, de vos utilisateurs et de vos objectifs : véritable coeur de
-la méthode, cette agilité s'applique aussi à la sécurité de votre
-produit.
+L'analyse de risques permet d'adopter des **mesures de sécurité cohérentes**
+vis-a-vis des risques auxquels votre service est exposé.
+Il permet de **rationnaliser l'investissement** en terme de sécurité et d'éviter
+qu'un service soit sous-sécurisé mais aussi sur-sécurisé.
 
-Pour anticiper les risques qui poursuivent votre produit, les ateliers
-d'analyse de risque permettent à votre équipe de faire le point sur la
-situation régulièrement et de rester consciente de ses enjeux de
-sécurité tout au long de son existence.
+Dans un milieu agile, votre service, son code, son infrastructure et ses
+fonctionnalités évoluent rapidement. Certaines évolutions peuvent
+**introduire de nouveaux risques** qu'il est crucial d'identifier pour
+prendre les mesures nécessaires.
 
-Ces ateliers, recommandés par l'Agence nationale de la sécurité des
-systèmes d’information (ANSSI), sont à faire en équipe complète, à
-intervalles réguliers (à minima tous les 6 mois), pour vous assurez
-collectivement que votre produit profite d'une croissance saine, sans
-zones d'ombre.
+## Quand
+
+Dès que possible et régulièrement, à l'instar de la dette technique, il existe
+une **dette sécurité**.
+
+Plus la sécurité est introduite tardivement, plus elle est coûteuse.
+
+## Comment
+
+### Mon Service Sécurisé
+
+Le service "Mon Service Sécurisé" du Lab ANSSI permet une approche agile et
+progressive de l'analyse de risque.
+
+Il vous permet d'évaluer les besoins de sécurité de votre service (Basiques,
+Modérés, Avancés) pour vous proposer des mesures de sécurité adaptées.
+
+### Threat Modeling
+
+En mode Agile, une méthode efficace est pour chaque nouvelle fonctionnalité,
+de se poser les questions suivantes :
+
+* *Sur quoi travaille-t-on ?*
+* *Qu'est-ce qu'il pourrait mal se passer ?*
+* *Comment allons nous y remedier ?*
+* *Avons nous bien fait notre travail ?*
+
+Cette méthode est appelée
+[Threat Modeling](https://owasp.org/www-community/Threat_Modeling)
+
+Le résultat de ces réflexions pourrons alimenter votre analyse de risque.
 
 ## Critères
 
-- L'équipe a déjà fait un atelier d'analyse de risque
-- L'équipe a prévu de refaire un atelier d'analyse de risque
+ - [ ] L'équipe à enregistré son service sur "Mon Service Sécurisé"
+ - [ ] L'équipe alimente régulièrement l'analyse de risque
 
 ## Ressources
 
-- [Réaliser une analyse de risque - monservicesecurise.cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/articles/realiser-une-analyse-de-risques-de-la-securite-du-service)
-- [Guide de sécurité numérique agile de l'ANSSI - cyber.gouv.fr](https://cyber.gouv.fr/sites/default/files/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
+* [Réaliser une analyse de risque - monservicesecurise.cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/articles/realiser-une-analyse-de-risques-de-la-securite-du-service)
+* [Guide de sécurité numérique agile de l'ANSSI - cyber.gouv.fr](https://cyber.gouv.fr/sites/default/files/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
+* [Threat Modeling selon l'OWASP - owasp.org ](https://owasp.org/www-community/Threat_Modeling)
