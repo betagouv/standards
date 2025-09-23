@@ -17,8 +17,8 @@ particulièrement les failles de logique métier ou de contrôle d'accès.
 
 Vous pouvez installer ces outils :
 
-* à minima dans votre pipeline CI/CD
-* dans votre IDE via un plugin
+- à minima dans votre pipeline CI/CD
+- dans votre IDE via un plugin
 
 ## Quels outils utiliser ?
 
@@ -39,7 +39,7 @@ en complément un outil spécifique a votre langa
 
 ## Ressources
 
-- [OWASP - Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools)
+- [OWASP - Source Code Analysis Tools - owasp.org](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 
 - [Configurer CodeQL - github.com](https://docs.github.com/fr/code-security/code-scanning/enabling-code-scanning/configuring-default-setup-for-code-scanning)
 
