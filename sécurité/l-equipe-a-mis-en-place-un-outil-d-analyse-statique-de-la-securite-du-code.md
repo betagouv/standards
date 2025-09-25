@@ -9,7 +9,7 @@ Principalement des vulnérabilités de type
 [injection](https://owasp.org/www-community/Injection_Flaws) et l'usage de
 fonctions dangereuses, vulnérables ou mal paramétrées.
 
-Attention toutefois, c'est un outil **nécessaire mais pas suffisant**, il est
+Attention toutefois, c'est un outil nécessaire mais pas suffisant, il est
 inefficace pour la détection d'un grand nombre de vulnérabilités,
 particulièrement les failles de logique métier ou de contrôle d'accès.
 
@@ -39,7 +39,7 @@ en complément un outil spécifique a votre langa
 
 ## Ressources
 
-- [OWASP - Source Code Analysis Tools - owasp.org](https://owasp.org/www-community/Source_Code_Analysis_Tools)
+- [Source Code Analysis Tools - owasp.org](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 
 - [Configurer CodeQL - github.com](https://docs.github.com/fr/code-security/code-scanning/enabling-code-scanning/configuring-default-setup-for-code-scanning)
 
