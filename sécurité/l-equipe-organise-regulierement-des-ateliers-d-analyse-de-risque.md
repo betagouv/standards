@@ -4,7 +4,7 @@
 
 L'analyse de risques permet d'adopter des mesures de sécurité cohérentes
 vis-a-vis des risques auxquels votre service est exposé.
-Il permet de **rationnaliser l'investissement** en terme de sécurité et d'éviter
+Elle permet de rationnaliser l'investissement en terme de sécurité et d'éviter
 qu'un service soit sous-sécurisé mais aussi sur-sécurisé.
 
 Dans un milieu agile, votre service, son code, son infrastructure et ses
@@ -15,7 +15,7 @@ prendre les mesures nécessaires.
 ## Quand
 
 Dès que possible et régulièrement, à l'instar de la dette technique, il existe
-une **dette sécurité**.
+une dette sécurité.
 
 Plus la sécurité est introduite tardivement, plus elle est coûteuse.
 
@@ -29,26 +29,11 @@ progressive de l'analyse de risque.
 Il vous permet d'évaluer les besoins de sécurité de votre service (Basiques,
 Modérés, Avancés) pour vous proposer des mesures de sécurité adaptées.
 
-### Modélisation de Menaces - Threat Modeling
-
-En mode Agile, une méthode efficace est pour chaque nouvelle fonctionnalité,
-de se poser les questions suivantes :
-
-- *Sur quoi travaille-t-on ?*
-- *Qu'est-ce qu'il pourrait mal se passer ?*
-- *Comment allons nous y remedier ?*
-- *Avons nous bien fait notre travail ?*
-
-Cette méthode est appelée
-[Threat Modeling](https://owasp.org/www-community/Threat_Modeling)
-
-Le résultat de ces réflexions pourrons alimenter votre analyse de risque.
-
 ## Critères
 
- - [ ] L'équipe a enregistré son service sur "Mon Service Sécurisé"
- 
- - [ ] L'équipe a défini un processus pour l'alimentation régulière de son
+- [ ] L'équipe a enregistré son service sur "Mon Service Sécurisé"
+
+- [ ] L'équipe a défini un processus pour l'alimentation régulière de son
 analyse de risque
 
 ## Ressources
