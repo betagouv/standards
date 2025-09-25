@@ -26,7 +26,8 @@ Les mécanismes de sécurité suivants doivent être documentés :
 
 - **Authentification** - Comment un utilisateur prouve son identité ?
 - **Gestion des autorisations** - Qui est autorisé d'accèder à quoi ?
-- **Cryptographie** - Comment les données sont protégées en transit et au repos ?
+- **Usages de la Cryptographie** - Comment les données sont protégées en transit
+et au repos ?
 - **Traçabilité des actions** - Qui a fait quoi, quand ? comment ?
 - **Validations des données** - Comment le format des données entrantes est
 assuré ?
