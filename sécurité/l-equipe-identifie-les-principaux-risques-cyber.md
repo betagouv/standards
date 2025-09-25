@@ -1,9 +1,9 @@
-# L'équipe organise régulièrement des ateliers d'analyse de risque
+# L'équipe identifie les principaux risques cyber
 
 ## Description
 
-L'analyse de risques permet d'adopter des mesures de sécurité cohérentes
-vis-a-vis des risques auxquels votre service est exposé.
+Identifier les principaux risques permet d'adopter des mesures de sécurité
+cohérentes vis-a-vis des risques auxquels votre service est exposé.
 Elle permet de rationnaliser l'investissement en terme de sécurité et d'éviter
 qu'un service soit sous-sécurisé mais aussi sur-sécurisé.
 
@@ -28,6 +28,10 @@ progressive de l'analyse de risque.
 
 Il vous permet d'évaluer les besoins de sécurité de votre service (Basiques,
 Modérés, Avancés) pour vous proposer des mesures de sécurité adaptées.
+
+### Guides de l'ANSSI
+
+Voire ressources
 
 ## Critères
 
