@@ -14,7 +14,6 @@ les risques cyber liés à votre service : elle atteste que les mesures
 de sécurité et les efforts présents et futurs sont suffisants pour
 faire face aux risques cyber les plus courants.
 
-
 La procédure d'homologation est simplifiée pour les services agiles
 mais ne la rend pas moins nécessaire, particulièrement en vu du succès
 que Beta souhaite à tous ses services. Elle prend la forme d'un
