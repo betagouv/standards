@@ -21,5 +21,6 @@ sécurité de votre service (Basiques, Modérés, Avancés).
 - [ ] Le service est référencé sur mon service sécurisé
 - [ ] Les besoins de sécurité (basiques, modérés ou avancés) sont identifiés
 
-# Ressources
+## Ressources
+
 [Inscription sur Mon Service Sécurisé - cyber.gouv.fr ](https://monservicesecurise.cyber.gouv.fr/inscription)
