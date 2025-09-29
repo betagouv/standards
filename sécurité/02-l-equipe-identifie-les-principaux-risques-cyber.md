@@ -5,7 +5,8 @@
 Identifier les principaux risques permet d'adopter des mesures de sécurité
 cohérentes vis-a-vis des risques auxquels votre service est exposé.
 Elle permet de rationnaliser l'investissement en terme de sécurité et d'éviter
-qu'un service soit sous-sécurisé mais aussi sur-sécurisé.
+qu'un service soit sous-sécurisé mais aussi d'éviter les surcoûts ou la
+friction engendrée par des mesures qui ne seraient pas adaptées.
 
 Dans un milieu agile, votre service, son code, son infrastructure et ses
 fonctionnalités évoluent rapidement. Certaines évolutions peuvent
@@ -20,9 +21,6 @@ plus elle est coûteuse.
 ## Comment ?
 
 ### via Mon Service Sécurisé
-
-Mon Service Sécurisé vous permet d'identifier les principaux risques cyber liés
-à votre
 
 "Mon Service Sécurisé" permet une approche agile et simplifiée de l'analyse
 de risque et est adapté à un premier exercice d'analyse de risque.
