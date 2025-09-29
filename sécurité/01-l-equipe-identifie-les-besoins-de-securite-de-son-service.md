@@ -4,7 +4,7 @@
 
 Identifier les besoins de sécurité est la première étape dans la stratégie de
 sécurisation de votre service. Connaitre ces besoins permettra dans un second
-temps d'identifier les principaux risques cyber, puis d'identifier les mesures
+temps d'identifier les principaux risques cyber afin d'en déduire les mesures
 de sécurité appropriées.
 
 ## Comment
@@ -18,7 +18,7 @@ sécurité de votre service (Basiques, Modérés, Avancés).
 
 ## Critères
 
-- [ ] Le service est référencé sur mon service sécurisé
+- [ ] Le service est référencé sur "Mon Service Sécurisé".
 - [ ] Les besoins de sécurité (basiques, modérés ou avancés) sont identifiés
 
 ## Ressources

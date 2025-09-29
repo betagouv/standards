@@ -9,15 +9,15 @@ déploiement, production.
 # Comment
 
 Sélectionner et décrire les mécanismes de sécurité lors de la phase de 
-conception
+conception.
 
-Appliquer les bonnes pratique de développement sécuriser lors de la phase de
+Appliquer les bonnes pratique de développement sécurisé lors de la phase de
 codage.
 
-Ecrire des tests de sécurité et mettre en place des outils automatiques 
+Écrire des tests de sécurité et mettre en place des outils automatiques 
 en phase de recette.
 
-# Critères
+## Critères
 
 - [ ] Les mécanismes de sécurité du service sont documentés
 - [ ] Les développeurs sont sensibilisés aux meilleures pratiques de codage
