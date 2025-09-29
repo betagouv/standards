@@ -25,7 +25,7 @@ les jalons
 
 ## Critères
 
-- L'équipe a identifié
+- L'équipe a identifié les jalons clés de sa démarche d'homologation
 
 ## Ressources
 
