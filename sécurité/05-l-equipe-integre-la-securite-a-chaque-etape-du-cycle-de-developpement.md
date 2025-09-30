@@ -20,7 +20,6 @@ En phase de recette, automatiser les vérifications de sécurité :
 - Mettre en place des outils automatiques de sécurité (SAST, DAST, SCA,
  détection de secrets...) dans votre pipeline d'intégration continue.
 
-
 ## Critères
 
 - [ ] Les mécanismes de sécurité du service sont documentés
