@@ -6,7 +6,7 @@ d'une part potentiellement atteindre à la vie privée de nos utilisateurs
 et d'autre part entâcher durablement la confiance envers l’administration.
 
 Aussi il est de notre responsabilité protéger la vie privée de nos utilisateurs
-et d'être irréprochable quand au traitement et au stockage des données
+et d'être irréprochables quant au traitement et au stockage des données
 personelles et sensibles.
 
 En suivant des pratiques de sécurité informatique rigoureuses, nous pouvons
