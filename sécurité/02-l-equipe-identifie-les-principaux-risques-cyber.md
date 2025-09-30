@@ -41,4 +41,4 @@ la méthodologie EBIOS Risk Manager.
 
 - [Guide de sécurité numérique agile de l'ANSSI - cyber.gouv.fr](https://cyber.gouv.fr/sites/default/files/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
 
-- [Threat Modeling selon l'OWASP - owasp.org ](https://owasp.org/www-community/Threat_Modeling)
+- [Threat Modeling selon l'OWASP - owasp.org](https://owasp.org/www-community/Threat_Modeling)

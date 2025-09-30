@@ -23,4 +23,4 @@ sécurité de votre service (Basiques, Modérés, Avancés).
 
 ## Ressources
 
-[Inscription sur Mon Service Sécurisé - cyber.gouv.fr ](https://monservicesecurise.cyber.gouv.fr/inscription)
+[Inscription sur Mon Service Sécurisé - cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/inscription)
