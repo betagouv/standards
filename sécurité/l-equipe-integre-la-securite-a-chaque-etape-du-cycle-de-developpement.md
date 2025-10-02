@@ -1,4 +1,4 @@
-# 05 - L'équipe intègre la sécurité à chaque étape du cycle de développement
+# L'équipe intègre la sécurité à chaque étape du cycle de développement
 
 ## Description
 
