@@ -1,4 +1,4 @@
-# 03 L'équipe a défini les étapes en vue de l'homologation sécurité du service
+# L'équipe a défini les étapes en vue de l'homologation sécurité du service
 
 ## Description
 

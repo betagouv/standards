@@ -1,4 +1,4 @@
-# 01 L'équipe identifie les besoins de sécurité de son service
+# L'équipe identifie les besoins de sécurité de son service
 
 ## Description
 

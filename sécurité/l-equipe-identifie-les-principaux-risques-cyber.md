@@ -1,4 +1,4 @@
-# 02 - L'équipe identifie les principaux risques cyber
+# L'équipe identifie les principaux risques cyber
 
 ## Description
 

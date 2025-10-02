@@ -1,5 +1,5 @@
 
-# 04 L'équipe est sensibilisée aux bonnes pratiques et procédures de sécurité
+# L'équipe est sensibilisée aux bonnes pratiques et procédures de sécurité
 
 ## Description
 
