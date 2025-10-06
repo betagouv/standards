@@ -22,6 +22,11 @@ ces indicateurs pour permettre une compréhension partagée des enjeux
 et de l'évolution du critère numéro un de la méthode beta.gouv.fr :
 l'impact.
 
+[Des ateliers "Impact & Croissance"][1] sont proposés aux équipes pour
+vous aider à établir ces indicateurs.
+
+[1]: https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/piloter-sa-croissance-et-evaluer-son-impact
+
 ## Critères
 
 - L’équipe suit la méthodologie AARRI.
@@ -29,3 +34,4 @@ l'impact.
 ## Ressources
 
 - [Accélérer la croissance de son service avec la méthode AARRI - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/pourquoi-le-deploiement-dun-service-public-en-ligne-est-il-important/methode-aarri)
+- [Ateliers impact & croissance - doc.incubateur.net](https://doc.incubateur.net/communaute/solliciter-et-contribuer-a-la-communaute/je-sollicite-de-laide-transverse/piloter-sa-croissance-et-evaluer-son-impact)
