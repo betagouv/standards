@@ -1,11 +1,11 @@
-# Déploiement
+# Impact
 
-Un service numérique en ligne peut être utile, il n'a aucun impact s’il n’y a
-pas d’utilisateurs. Le déploiement est donc essentiel à la réussite du service.
+Un service numérique en ligne peut être utile, il n'a aucun impact
+s’il n’y a pas d’utilisateurs. Le déploiement et l'impact sont donc
+essentiels à la réussite du service.
 
-On ne passe pas du temps de développement sur un produit sans vérifier qu’il va
-y avoir de l’usage derrière.
-
-Plus tôt on travaille le déploiement, plus vite on s’assure que notre solution a
-de la traction. La majorité des produits numériques ont d'abord été vendus alors
-qu'il n'y avait pas encore une ligne de code écrite : "fake it, until you make it".
+Tout comme le code ou la sécurité sont équipés d'outils et de cadres
+de travail (framework) pour mieux les comprendre, votre impact doit
+lui aussi être mesuré et outillé pour vous permettre d'amener votre
+service dans la bonne direction, celle où il est utile au plus grand
+nombre.
