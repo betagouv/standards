@@ -33,4 +33,4 @@ La DINUM met à disposition l'outil [ARA](https://ara.numerique.gouv.fr/) pour d
 
 ## Critères
 
-- L'équipe planifie un audit de conformité RGAA
+- L'équipe a planifié un audit de conformité RGAA avant la sortie d'incubation
