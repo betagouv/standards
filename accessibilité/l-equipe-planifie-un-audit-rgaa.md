@@ -11,6 +11,7 @@ qui permet de mesurer le taux de conformité d’un service.
 
 Un audit RGAA demande du temps, de l’énergie et du budget. Il faut donc 
 trouver le bon moment pour planifier cet audit : 
+
 - quand le service est relativement stable (puisqu'un audit devient 
 pérenne à chaque « modification substantielle »)
 - quand l'équipe est encore en place (donc avant la sortie d'incubation)
