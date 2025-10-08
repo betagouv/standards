@@ -17,7 +17,7 @@ pérenne à chaque « modification substantielle »)
 - quand l'équipe est encore en place (donc avant la sortie d'incubation).
 
 Généralement, on planifie l'audit en phase d'accéleration ou de 
-pérénisation, voir avant un lancement public en construction.
+pérénisation ; voir plus tôt, en construction, avant un lancement public.
 
 ### Qui fait l'audit ? 
 
@@ -33,4 +33,4 @@ La DINUM met à disposition l'outil [ARA](https://ara.numerique.gouv.fr/) pour d
 
 ## Critères
 
-- L'équipe planifie un audit de conformité RGAA 
+- L'équipe planifie un audit de conformité RGAA
