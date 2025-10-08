@@ -14,7 +14,7 @@ trouver le bon moment pour planifier cet audit :
 
 - quand le service est relativement stable (puisqu'un audit devient 
 pérenne à chaque « modification substantielle »)
-- quand l'équipe est encore en place (donc avant la sortie d'incubation)
+- quand l'équipe est encore en place (donc avant la sortie d'incubation).
 
 Généralement, on planifie l'audit en phase d'accéleration ou de 
 pérénisation, voir avant un lancement public en construction.
