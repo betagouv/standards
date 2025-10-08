@@ -29,7 +29,7 @@ La DINUM met à disposition l'outil [ARA](https://ara.numerique.gouv.fr/) pour d
 
 - [Préparer un audit RGAA](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/accessibilite-and-inclusion/obligations-legales#preparer-un-audit-rgaa) - doc.incubateur.net 
 - [Faire (faire) un audit RGAA](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/accessibilite-and-inclusion/obligations-legales#faire-faire-un-audit-rgaa) - doc.incubateur.net
-- [ARA](https://ara.numerique.gouv.fr) - numérique.gouv.fr
+- [ARA](https://ara.numerique.gouv.fr) - numerique.gouv.fr
 
 ## Critères
 
