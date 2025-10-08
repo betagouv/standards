@@ -21,7 +21,7 @@ pérénisation, voir avant un lancement public en construction.
 
 ### Qui fait l'audit ? 
 
-Il est souvent réalisé en externe, par des expert·es en accessibilité. 
+Il est souvent réalisé en externe, par des personnes expertes en accessibilité. 
 Il peut aussi être fait en interne par une personne formée et qualifiée. 
 La DINUM met à disposition l'outil ARA pour documenter l'audit.
 
