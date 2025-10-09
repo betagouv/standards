@@ -4,7 +4,7 @@
 
 Les services publics ont l’obligation légales d’être accessibles aux 
 personnes en situation de handicap. Cela passe notamment par un audit 
-de conformité RGAA (Référentiel Général d’Amélioration de l’Accessibilité), 
+de conformité au Référentiel Général d’Amélioration de l’Accessibilité (RGAA), 
 qui permet de mesurer le taux de conformité d’un service.
 
 ### Quand faire un audit ?
@@ -17,7 +17,8 @@ pérenne à chaque « modification substantielle »)
 - quand l'équipe est encore en place (donc avant la sortie d'incubation).
 
 Généralement, on planifie l'audit en phase d'accéleration ou de 
-pérénisation ; voir plus tôt, en construction, avant un lancement public.
+pérénisation. Parfois, il est planifié dès la phase de construction, 
+nottament en cas d'un grand lancement public.
 
 ### Qui fait l'audit ? 
 
@@ -27,9 +28,9 @@ La DINUM met à disposition l'outil [ARA](https://ara.numerique.gouv.fr/) pour d
 
 ## Ressources
 
-- [Préparer un audit RGAA](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/accessibilite-and-inclusion/obligations-legales#preparer-un-audit-rgaa) - doc.incubateur.net 
-- [Faire (faire) un audit RGAA](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/accessibilite-and-inclusion/obligations-legales#faire-faire-un-audit-rgaa) - doc.incubateur.net
-- [ARA](https://ara.numerique.gouv.fr) - numerique.gouv.fr
+- [Préparer un audit RGAA - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/accessibilite-and-inclusion/obligations-legales#preparer-un-audit-rgaa)
+- [Faire faire un audit RGAA - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/accessibilite-and-inclusion/obligations-legales#faire-faire-un-audit-rgaa)
+- [ARA - numerique.gouv.fr](https://ara.numerique.gouv.fr)
 
 ## Critères
 
