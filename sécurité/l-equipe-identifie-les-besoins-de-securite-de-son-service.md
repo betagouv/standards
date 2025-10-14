@@ -14,7 +14,7 @@ piloter les différentes étapes de la sécurisation de votre service en vue de 
 future homologation.
 
 Le cas échéant, il vous permet en quelques minutes d'évaluer les besoins de
-sécurité de votre service (Basiques, Modérés, Avancés).
+sécurité de votre service (Basiques, Modérés ou Avancés).
 
 ## Critères
 
@@ -23,4 +23,4 @@ sécurité de votre service (Basiques, Modérés, Avancés).
 
 ## Ressources
 
-[Inscription sur Mon Service Sécurisé - cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/inscription)
+[monservicesecurise.cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/inscription)

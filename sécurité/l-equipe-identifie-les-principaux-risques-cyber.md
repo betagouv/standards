@@ -29,7 +29,8 @@ de risques et est adapté à un premier exercice d'analyse de risques.
 
 En fonction du degré de maturité et des besoins de sécurité, il se
 peut que vous ayez à réaliser une analyse de risques plus poussée en utilisant
-la méthodologie EBIOS Risk Manager.
+la méthodologie EBIOS Risk Manager. Rapprochez vous de votre ministère de
+tutelle pour connaitre les exigences qui lui sont propres.
 
 ## Critères
 
@@ -38,7 +39,5 @@ la méthodologie EBIOS Risk Manager.
 ## Ressources
 
 - [Réaliser une analyse de risques - monservicesecurise.cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/articles/realiser-une-analyse-de-risques-de-la-securite-du-service)
-
 - [Guide de sécurité numérique agile de l'ANSSI - cyber.gouv.fr](https://cyber.gouv.fr/sites/default/files/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
-
 - [Threat Modeling selon l'OWASP - owasp.org](https://owasp.org/www-community/Threat_Modeling)

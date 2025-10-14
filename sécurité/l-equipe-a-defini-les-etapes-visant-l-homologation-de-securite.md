@@ -19,13 +19,15 @@ mais ne la rend pas moins nécessaire, particulièrement en vu du succès
 que Beta souhaite à tous ses services. Elle prend la forme d'un
 document validé par votre administration.
 
-Afin de fluidifier cette démarche il est nécessaire de la préparer
-progressivement, au fil du développement de votre service en identifiant
-les jalons
+L'utilisation de Mon Service Sécurisé pur piloter la démarche d'homogation
+est dans la plupart des ministères une démarche reconnue nécessaire mais
+parfois insuffisante.
 
 ## Critères
 
-- [ ] L'équipe a identifié les jalons clés de sa démarche d'homologation
+- [ ] L'équipe a pris connaissance des modalités d'homologation de son ministère
+de tutelle.
+- [ ] L'équipe a établi un plan d'action visant l'homologation de son service.
 
 ## Ressources
 

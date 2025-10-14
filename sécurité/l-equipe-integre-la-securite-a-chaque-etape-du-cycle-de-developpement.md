@@ -25,5 +25,5 @@ En phase de recette, automatiser les vérifications de sécurité :
 - [ ] Les mécanismes de sécurité du service sont documentés
 - [ ] Les développeurs sont sensibilisés aux meilleures pratiques de codage
 sécurisé et d'hygiène du poste de développement
-- [ ] Des tests de sécurité automatiques sont en place en phase de recette
+- [ ] Des tests de sécurité automatiques sont en place
 - [ ] Des mesures de surveillances continue sont en place en production
