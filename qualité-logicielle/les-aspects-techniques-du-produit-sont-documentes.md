@@ -1,4 +1,4 @@
-# Les aspects techniques du produits sont documentés
+# Les aspects techniques du produit sont documentés
 
 ## Description
 
