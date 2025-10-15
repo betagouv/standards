@@ -15,7 +15,7 @@ RULES = $(shell make -s list-rules)
 #
 # [1]: https://git-scm.com/docs/git-config#Documentation/git-config.txt-corequotePath
 list-rules:
-	git ls-files '**/*.md' -z | tr '\0' '\n' | grep -v "README.md" | grep -v ".github"
+	git ls-files '**/*.md' -z | tr '\0' '\n' | grep -v "README.md" | grep -v ".github" | grep -v ".adrs"
 
 echo-rules:
 	echo "the rules are $(RULES)"
