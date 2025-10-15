@@ -1,4 +1,4 @@
-# L'équipe initie une analyse d'impact relative à la protection des donnée si nécessaire
+# L'équipe initie une analyse d'impact relative à la protection des données si nécessaire
 
 ## Description
 
