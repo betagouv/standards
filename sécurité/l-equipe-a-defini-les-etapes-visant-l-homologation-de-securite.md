@@ -1,4 +1,4 @@
-# L'équipe a entamé une démarche d'homologation de sécurité
+# L'équipe a défini les étapes en vue de l'homologation sécurité du service
 
 ## Description
 
@@ -14,20 +14,20 @@ les risques cyber liés à votre service : elle atteste que les mesures
 de sécurité et les efforts présents et futurs sont suffisants pour
 faire face aux risques cyber les plus courants.
 
-Pour ce faire vous pouvez enregistrer et faire évoluer votre service
-dès sa conception sur
-[MonServiceSécurisé](https://monservicesecurise.cyber.gouv.fr/), un
-service incubé à beta.gouv.fr qui simplifie cette étude et permet à
-votre équipe d'intégrer la sécurité dès la génèse de votre produit.
-
 La procédure d'homologation est simplifiée pour les services agiles
 mais ne la rend pas moins nécessaire, particulièrement en vu du succès
 que Beta souhaite à tous ses services. Elle prend la forme d'un
 document validé par votre administration.
 
+L'utilisation de Mon Service Sécurisé pur piloter la démarche d'homogation
+est dans la plupart des ministères une démarche reconnue nécessaire mais
+parfois insuffisante.
+
 ## Critères
 
-- L'équipe a entamé une démarche d'homologation de sécurité
+- [ ] L'équipe a pris connaissance des modalités d'homologation de son ministère
+de tutelle.
+- [ ] L'équipe a établi un plan d'action visant l'homologation de son service.
 
 ## Ressources
 
