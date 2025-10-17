@@ -3,4 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'activesupport'
+gem 'cucumber'
+gem 'rspec'
 gem 'debug'
+gem 'kramdown'
