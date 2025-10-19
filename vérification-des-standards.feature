@@ -8,3 +8,4 @@ Fonctionnalité: Les standards de beta.gouv.fr sont homogènes
     Et le standard contient bien les sections Description, Ressources et Critères
     Et la section "Critères" du standard contient uniquement une liste
     Et la section "Ressources" du standard contient uniquement une liste
+    Et tous les liens en ressource sont labelisés avec le titre et le nom de domaine

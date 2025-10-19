@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'nokogiri'
 require 'active_support/core_ext/string'
 require 'active_support/core_ext/object'
 
@@ -33,4 +34,18 @@ Alors('la section {string} du standard contient uniquement une liste') do |title
   if content.present?
     expect(content.lines.all? { |item| item.start_with?("- ") })
   end
+end
+
+Alors('tous les liens en ressource sont labelisés avec le titre et le nom de domaine') do
+  links_for_section("Ressources").each do |link|
+    expect(link.text.squish).to match(/\A.* \- [\w\.\-]+\Z/)
+  end
+end
+
+
+def links_for_section(section_title)
+  section_tree = @parser.content_for_section(section_title)
+  html = Kramdown::Document.new(section_tree).to_html
+
+  Nokogiri::HTML(html).css('a')
 end

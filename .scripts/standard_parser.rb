@@ -54,8 +54,6 @@ class StandardParser < Kramdown::Document
     yield(tree.reject { |e| e.type == :blank }) if block_given?
   end
 
-  private
-
   # rubocop:disable Metrics/MethodLength
   def tree_for_section(section_title)
     content = []
@@ -75,6 +73,8 @@ class StandardParser < Kramdown::Document
     content
   end
   # rubocop:enable Metrics/MethodLength
+
+  private
 
   def all_headers
     root.children.select { |e| e.type == :header }
