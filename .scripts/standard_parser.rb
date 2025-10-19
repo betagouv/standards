@@ -72,6 +72,9 @@ class StandardParser < Kramdown::Document
 
     content
   end
+
+  private
+
   # rubocop:enable Metrics/MethodLength
 
   private
