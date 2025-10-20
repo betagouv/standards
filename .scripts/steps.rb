@@ -13,7 +13,8 @@ Soit('un standard') do
 
   log "\Vérification du standard #{@path}..."
 
-  @parser = StandardParser.new(File.read(@path))
+  @content = File.read(@path)
+  @parser  = StandardParser.new(@content)
 end
 
 Alors('le standard a un titre principal') do
@@ -42,6 +43,9 @@ Alors('tous les liens en ressource sont labelisés avec le titre et le nom de do
   end
 end
 
+Alors('le standard ne contient pas de balises HTML') do
+  expect(@content).not_to match /<[^>]*>/
+end
 
 def links_for_section(section_title)
   section_tree = @parser.content_for_section(section_title)
