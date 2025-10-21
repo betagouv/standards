@@ -14,20 +14,30 @@ les risques cyber liés à votre service : elle atteste que les mesures
 de sécurité et les efforts présents et futurs sont suffisants pour
 faire face aux risques cyber les plus courants.
 
-La procédure d'homologation est simplifiée pour les services agiles
-mais ne la rend pas moins nécessaire, particulièrement en vu du succès
-que Beta souhaite à tous ses services. Elle prend la forme d'un
-document validé par votre administration.
+Pour ce faire vous pouvez enregistrer et faire évoluer votre service
+dès sa conception sur
+[Mon Service Sécurisé](https://monservicesecurise.cyber.gouv.fr/), un
+service incubé à beta.gouv.fr qui simplifie cette étude et permet à
+votre équipe d'intégrer la sécurité dès la génèse de votre produit.
 
-L'utilisation de Mon Service Sécurisé pur piloter la démarche d'homogation
-est dans la plupart des ministères une démarche reconnue nécessaire mais
-parfois insuffisante.
+La procédure d'homologation est une étape nécessaire, particulièrement en vu du
+succès que beta.gouv souhaite à tous ses services. Elle prend la forme d'un
+document validé par votre administration. Chaque administration possédant une
+démarche d'homologation de sécurité lui étant propre, vous devez en prendre
+connaissance auprès de votre responsable d'incubateur. Attention, certaines administration
+ne valide pas, ou seulement sous certaines conditions, l'utilisation de
+Mon Service Sécurisé comme outil permettant de constituer un dossier
+d'homologation complet.
+
+Si elle n'est pas anticipée, cette démarche d'homologation peut
+mener à des situations de blocage, voire à l'arrêt du service. C'est pourquoi
+vous devez définir les étapes clés visant l'homologation.
 
 ## Critères
 
-- [ ] L'équipe a pris connaissance des modalités d'homologation de son ministère
-de tutelle.
-- [ ] L'équipe a établi un plan d'action visant l'homologation de son service.
+- L'équipe a pris connaissance de la démarche d'homologation propre à son
+administration.
+- L'équipe a établi un plan d'action visant l'homologation de son service.
 
 ## Ressources
 
