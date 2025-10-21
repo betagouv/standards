@@ -1,22 +1,26 @@
 
-# L'équipe est sensibilisée aux bonnes pratiques et procédures de sécurité
+# L'équipe est sensibilisée aux règles d'hygiene informatique et de sécurité
 
 ## Description
 
-A elles seules, les équipes sécurité
-ne peuvent garantir la sécurité de l'ensemble du périmètre beta.
-Aussi il est important que chaque membre adopte les bons réflexes de securité
-pour garantir la sécurité des données et des services qu'il est amené a
-utiliser et a manipuler au quotidien. En effet une partie importante des
-incidents de sécurité ont pour cause principale des négligences de la part
-de collaborateurs.
+Les équipes de sécurité informatiques de la communauté seules ne peuvent
+garantir la sécurité de l'ensemble du périmètre beta.gouv. Chaque membre doit
+adopter les bons réflexes permettant de garantir la sécurité des données et des
+services qu'il est amené a créer, utiliser et manipuler au quotidien. Selon une
+étude menée par IBM en 2021, l'erreur humaine est la principale cause de 95% des
+incidents de sécurité.
+
+La sensibilisation aux règles d'hygiene informatiques et de sécurité dispensée
+par beta.gouv permet aux membres de la communauté de connaitre les réflèxes de
+base permettant de réduire la probabilité d'un incident.
 
 ## Critères
 
-- [ ] Tous les membres de l'équipe ont assisté à la sensibilisation sur les
+- Tous les membres de l'équipe ont assisté à la sensibilisation sur les
 règles d'hygiene informatique et de sécurité.
 
 ## Ressources
 
-[Règles d'hygiene informatique et de sécurité - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/securite/regles-dhygiene-informatique-et-de-securite)
-[MOOC - La cybersécurité des projets numériques - mentor.gouv.fr](https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=494)
+- [Règles d'hygiene informatique et de sécurité - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/securite/regles-dhygiene-informatique-et-de-securite)
+- [MOOC - La cybersécurité des projets numériques - mentor.gouv.fr](https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=494)
+- [Why Human Error is #1 Cyber Security Threat - thehackernews.com](https://thehackernews.com/2021/02/why-human-error-is-1-cyber-security.htm)

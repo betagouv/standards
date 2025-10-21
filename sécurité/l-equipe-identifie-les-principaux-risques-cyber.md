@@ -34,7 +34,7 @@ tutelle pour connaitre les exigences qui lui sont propres.
 
 ## Critères
 
-- [ ] Les principaux risques cyber sont identifiés et documentés.
+- Les principaux risques cyber sont identifiés et documentés.
 
 ## Ressources
 
