@@ -2,15 +2,15 @@
 
 ## Description
 
-L'exposition d'un système d'information aux risques est la raison existentielle  
+L'exposition d'un système d'information aux risques est la raison existentielle
 des actions de cybersécurité.
 
-La cybersécurité est une assurance couvrant les risques par l'emploi de mesures  
+La cybersécurité est une assurance couvrant les risques par l'emploi de mesures
 de sécurité plus ou moins coûteuses.
 
-Ces mesures sont sélectionnées en fonction des **besoins** de sécurité (à titre  
-d'exemple, une donnée personnelle de santé a des besoins de sécurité différents  
-d'une donnée purement technique), de la **probabilité**, de l'**impact** et des  
+Ces mesures sont sélectionnées en fonction des **besoins** de sécurité (à titre
+d'exemple, une donnée personnelle de santé a des besoins de sécurité différents
+d'une donnée purement technique), de la **probabilité**, de l'**impact** et des
 **conséquences** d'un incident (vol, altération ou suppression de données,  
 indisponibilité du service...). L'identification et la quantification de ces  
 éléments (besoin, probabilité, impact et conséquences) constituent une analyse  
