@@ -1,4 +1,4 @@
-# L'équipe a défini les étapes en vue de l'homologation sécurité du service
+# L'équipe a établi un plan d'action visant l'homologation de son service
 
 ## Description
 
@@ -18,25 +18,27 @@ Pour ce faire vous pouvez enregistrer et faire évoluer votre service
 dès sa conception sur
 [Mon Service Sécurisé](https://monservicesecurise.cyber.gouv.fr/), un
 service incubé à beta.gouv.fr qui simplifie cette étude et permet à
-votre équipe d'intégrer la sécurité dès la génèse de votre produit.
+votre équipe d'intégrer la sécurité dès la génèse de votre produit et de
+constituer un dossier d'homologation.
 
 La procédure d'homologation est une étape nécessaire, particulièrement en vu du
 succès que beta.gouv souhaite à tous ses services. Elle prend la forme d'un
-document validé par votre administration. Chaque administration possédant une
-démarche d'homologation de sécurité lui étant propre, vous devez en prendre
-connaissance auprès de votre responsable d'incubateur. Attention, certaines administration
-ne valide pas, ou seulement sous certaines conditions, l'utilisation de
-Mon Service Sécurisé comme outil permettant de constituer un dossier
-d'homologation complet.
+document validé par votre administration.
 
-Si elle n'est pas anticipée, cette démarche d'homologation peut
-mener à des situations de blocage, voire à l'arrêt du service. C'est pourquoi
-vous devez définir les étapes clés visant l'homologation.
+Chez beta.gouv nous defendons une approche agile, pragmatique et proportionnée
+de la sécurité. Approche auxquelles certaines administrations sont parfois
+reticentes. Chaque administration dispose de ses propres critères
+d'homologation dont vous devez prendre connaissance.
+
+La démarche d'homologation, si elle n'est pas anticipée, peut
+mener à des situations de blocage administratifs, voire à l'arrêt du service.
+C'est pourquoi vous devez établir un plan d'action vous permettant de la mener
+à bien.
 
 ## Critères
 
-- L'équipe a pris connaissance de la démarche d'homologation propre à son
-administration.
+- L'équipe a pris connaissance de des critères d'homologation propre à son
+administration
 - L'équipe a établi un plan d'action visant l'homologation de son service.
 
 ## Ressources
