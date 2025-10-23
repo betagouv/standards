@@ -42,10 +42,11 @@ Si votre service évolue, vous pouvez à tout momment refaire rapidement une
 
 #### En utilisant le guide de sécurité Agile de l'ANSSI
 
-L'ANSSI a rédigé un guide a destination des équipes agiles, elle y propose une
-méthode d'analyse de risques, inspirée d'[EBIOS Risk Manager](https://cyber.gouv.fr/la-methode-ebios-risk-manager)
+L'ANSSI a rédigé un [guide a destination des équipes agiles](https://cyber.gouv.fr/sites/default/files/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf),
+elle y propose une méthode d'analyse de risques, inspirée d'
+[EBIOS Risk Manager](https://cyber.gouv.fr/la-methode-ebios-risk-manager)
 prenant en comptes les risques de manière incrémentale en une série d'ateliers.
-C'est la méthode qui au recommandée pour la plupart des startups d'état.
+C'est la méthode qui est recommandée pour la plupart des startups d'état.
 
 #### En utilisat la méthode EBIOS Risk Manager
 
