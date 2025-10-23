@@ -6,8 +6,8 @@
 Les équipes de sécurité informatiques de la communauté seules ne peuvent
 garantir la sécurité de l'ensemble du périmètre beta.gouv. Chaque membre doit
 adopter les bons réflexes permettant de garantir la sécurité des données et des
-services qu'il est amené a créer, utiliser et manipuler au quotidien. Selon une
-étude menée par IBM en 2021, l'erreur humaine est la principale cause de 95% des
+services qu'il est amené a créer, utiliser et manipuler au quotidien. Selon un
+consensus d'études, l'erreur humaine est la principale cause de 95% des
 incidents de sécurité.
 
 La sensibilisation aux règles d'hygiene informatiques et de sécurité dispensée
