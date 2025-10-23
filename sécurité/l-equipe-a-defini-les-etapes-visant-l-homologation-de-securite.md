@@ -8,40 +8,41 @@ respecter les exigences du [référentiel général de sécurité
 produit par l'Agence nationale de la sécurité des systèmes
 d’information (ANSSI).
 
-Ce référentiel impose notamment notamment la conduite d'une
+Ce référentiel impose notamment la conduite d'une
 homologation de sécurité pour permettre d'identifier et de valider
-les risques cyber liés à votre service : elle atteste que les mesures
+les risques cyber liés à votre service : elle atteste que les mesures
 de sécurité et les efforts présents et futurs sont suffisants pour
 faire face aux risques cyber les plus courants.
 
-Pour ce faire vous pouvez enregistrer et faire évoluer votre service
+Pour ce faire, vous pouvez enregistrer et faire évoluer votre service
 dès sa conception sur
 [Mon Service Sécurisé](https://monservicesecurise.cyber.gouv.fr/), un
 service incubé à beta.gouv.fr qui simplifie cette étude et permet à
-votre équipe d'intégrer la sécurité dès la génèse de votre produit et de
+votre équipe d'intégrer la sécurité dès la genèse de votre produit et de
 constituer un dossier d'homologation.
 
-La procédure d'homologation est une étape nécessaire, particulièrement en vu du
+La procédure d'homologation est une étape nécessaire, particulièrement en vue du
 succès que beta.gouv souhaite à tous ses services. Elle prend la forme d'un
 document validé par votre administration.
 
-Chez beta.gouv nous defendons une approche agile, pragmatique et proportionnée
-de la sécurité. Approche auxquelles certaines administrations sont parfois
-reticentes. Chaque administration dispose de ses propres critères
+Chez beta.gouv, nous défendons une approche agile, pragmatique et proportionnée
+de la sécurité, approche à laquelle certaines administrations sont parfois
+réticentes. Chaque administration dispose de ses propres critères
 d'homologation dont vous devez prendre connaissance.
 
 La démarche d'homologation, si elle n'est pas anticipée, peut
-mener à des situations de blocage administratifs, voire à l'arrêt du service.
+mener à des situations de blocage administratif, voire à l'arrêt du service.
 C'est pourquoi vous devez établir un plan d'action vous permettant de la mener
 à bien.
 
 ## Critères
 
-- L'équipe a pris connaissance de des critères d'homologation propre à son
-administration
+- L'équipe a pris connaissance des critères d'homologation propres à son
+administration.
 - L'équipe a établi un plan d'action visant l'homologation de son service.
 
 ## Ressources
 
 - [Tout savoir sur l'homologation de sécurité - monservicesecurise.cyber.gouv.fr](https://monservicesecurise.cyber.gouv.fr/articles/tout-savoir-sur-lhomologation-de-securite)
 - [Guide d'homologation de sécurité - cyber.gouv.fr](https://cyber.gouv.fr/sites/default/files/document/guide-homologation-securite-web-04-2025.pdf)
+
