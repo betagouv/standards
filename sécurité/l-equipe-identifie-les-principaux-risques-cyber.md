@@ -8,10 +8,10 @@ des actions de cybersécurité.
 La cybersécurité est une assurance couvrant les risques par l'emploi de mesures
 de sécurité plus ou moins coûteuses.
 
-Ces mesures sont sélectionnées en fonction des **besoins** de sécurité (à titre
+Ces mesures sont sélectionnées en fonction des besoins de sécurité (à titre
 d'exemple, une donnée personnelle de santé a des besoins de sécurité différents
-d'une donnée purement technique), de la **probabilité**, de l'**impact** et des
-**conséquences** d'un incident (vol, altération ou suppression de données,  
+d'une donnée purement technique), de la probabilité, de l'impact et des
+conséquences d'un incident (vol, altération ou suppression de données,  
 indisponibilité du service...). L'identification et la quantification de ces  
 éléments (besoin, probabilité, impact et conséquences) constituent une analyse  
 de risques.
@@ -50,10 +50,11 @@ C'est la méthode qui est recommandée pour la plupart des startups d'État.
 #### En utilisant la méthode EBIOS Risk Manager
 
 La méthode [EBIOS Risk Manager](https://cyber.gouv.fr/la-methode-ebios-risk-manager)
-est le standard dans l'administration française. Plus complète et rigoureuse,
-elle est aussi plus lourde dans sa réalisation. Certaines administrations
-peuvent exiger l'emploi de cette méthode dans le cadre de l'homologation du
-service.
+(**E**tude des **B**esoins et **I**dentification des **O**bjectifs de
+**S**écuriré) est le standard de l'analyse de risques dans l'administration
+française. Plus complète et rigoureuse, elle est aussi plus lourde dans sa
+réalisation. Certaines administrations peuvent exiger l'emploi de cette méthode
+dans le cadre de l'homologation de leurs services.
 
 ## Critères
 
