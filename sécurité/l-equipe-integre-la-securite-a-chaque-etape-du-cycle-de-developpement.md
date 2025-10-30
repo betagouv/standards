@@ -28,4 +28,3 @@ codage (prévention des injections).
     sécurisé et d'hygiène du poste de développement.
 - Des tests de sécurité automatiques et automatisés sont en place.
 - Des mesures de surveillance continue sont en place en production.
-
