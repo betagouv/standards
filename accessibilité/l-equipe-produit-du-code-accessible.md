@@ -9,13 +9,15 @@ essentiel : environ 60 % des critères du RGAA sont relatifs au code.
 Produire du code sémantique est donc essentiel. Pour cela, l'équipe
 doit s'assurer de mettre en oeuvre le maximum, par exemple :
 
-- Utiliser un design système accessible (par exemple, le DSFR)
+- Utiliser un design système accessible (par exemple, le DSFR, obligatoire pour les services de l'État en .gouv.fr. et à destination du grand public.")
 - Avoir des compétences front-end en interne
 - Vérifier régulièrement la sémantique du HTML produit
 
 ## Critères
 
-- Le code produit est accessible.
+- Le produit utilise le DSFR s'il est grand public et opéré par l'État
+- Le code produit utilise une sémantique HTML accessible
+- Le code produit est pensé en intégrant des bonnes pratiques d'accessibilité
 
 ## Ressources
 
