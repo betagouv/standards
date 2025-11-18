@@ -25,4 +25,4 @@ de l'État élaborée par la DINUM.
 ## Ressources
 
 - [Stratégie numérique de l'État - numerique.gouv.fr](https://www.numerique.gouv.fr/numerique-etat/)
-- [Guide juridique du logiciel libre dans l’administration](https://documentation.ouvert.numerique.gouv.fr/ressources/guide-juridique-du-logiciel-libre-dans-ladministration/)
+- [Guide juridique du logiciel libre dans l’administration - numerique.gouv.fr](https://documentation.ouvert.numerique.gouv.fr/ressources/guide-juridique-du-logiciel-libre-dans-ladministration/)
