@@ -2,7 +2,7 @@
 
 ## Description
 
-La méthode beta.gouv.fr est centrée sur l'utilisateur : 
+La méthode beta.gouv.fr est centrée sur l'utilisateur :
 ce fondement la distingue du mode projet traditionnel, en [se
 concentrant sur les besoins des usagers plutôt que ceux de
 l'administration](https://beta.gouv.fr/manifeste).
