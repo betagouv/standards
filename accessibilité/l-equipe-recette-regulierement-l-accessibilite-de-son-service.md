@@ -2,10 +2,10 @@
 
 ## Description
 
-En accessibilité, les tests automatiques ne sont pas suffisants.
-Il est indispensable de pratiquer des tests manuels en complément. 
-Ainsi, pour s'assurer de l'accessibilité d'un service,
-il faut le *manipuler* (par exemple en naviguant au clavier).
+En accessibilité, les tests automatiques ne sont pas suffisants. Il
+est indispensable de pratiquer des tests manuels en complément.
+Ainsi, pour s'assurer de l'accessibilité d'un service, il faut le
+*manipuler* (par exemple en naviguant au clavier).
 
 Recetter manuellement permet d'éviter la dette d'accessibilité et de
 maintenir un niveau minimal de qualité.
