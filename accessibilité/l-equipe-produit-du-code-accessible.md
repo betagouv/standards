@@ -3,7 +3,7 @@
 ## Description
 
 Dans l'accessibilité d'un produit, toute l'équipe a un rôle à jouer
-mais les développeuses/développeurs ont un rôle prépondérant : 
+mais les développeuses/développeurs ont un rôle prépondérant :
 environ 60 % des critères du RGAA sont relatifs au code.
 
 Produire du code sémantique est donc essentiel. Pour cela, l'équipe
