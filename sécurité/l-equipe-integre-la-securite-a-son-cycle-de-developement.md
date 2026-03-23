@@ -1,4 +1,4 @@
-# L'équipe intègre la sécurité à chaque étape du cycle de développement
+# L'équipe intègre la sécurité à son cycle de développement
 
 ## Description
 
@@ -11,7 +11,7 @@ Cette approche, appelée « security by design » ou « shift left »,
 permet d'identifier et de corriger les vulnérabilités au plus tôt,
 quand elles sont encore peu coûteuses à résoudre. Elle évite
 l'accumulation d'une dette de sécurité qui devient difficile à
-résorber en fin de projet.
+résorber par la suite.
 
 Au-delà des bonnes pratiques de codage sécurisé, cette intégration
 passe par la sensibilisation de toute l'équipe, l'automatisation des
