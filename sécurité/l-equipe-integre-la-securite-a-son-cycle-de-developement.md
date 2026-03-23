@@ -35,26 +35,4 @@ maintenir à chaque itération.
 
 ## Ressources
 
-### Documentation des mécanismes de sécurité
-
-- [Fiche Authentification - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
-- [Fiche Contrôle d'accès - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Access_Control_Cheat_Sheet.html)
-- [Fiche Traçabilité et audit - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
-- [Fiche Stockage chiffré et sécurisé - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html)
-- [Fiche Validation des entrées & sorties - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
-
-### Bonnes pratiques de développement sécurisé
-
-- [Revue sécurité du code source - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Code_Review_Cheat_Sheet.html)
-- [Guide de développement sécurisé - ANSSI](https://www.ssi.gouv.fr/guide/regles-et-recommandations-concernant-le-developpement-securise-dapplications-web/)
-- [Les 10 catégories de vulnérabilités les plus fréquentes - OWASP](https://owasp.org/www-project-top-ten/)
-- [Sécuriser son code - sillon.incubateur.net](https://sillon.incubateur.net/docs/security/)
-
-### Tests de sécurité automatisés
-
-- [DevSecOps Guideline - OWASP](https://owasp.org/www-project-devsecops-guideline/)
-- [CI/CD Security Cheat Sheet - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/CI_CD_Security_Cheat_Sheet.html)
-
-### Surveillance continue et gestion de la production
-
-- [Vulnerability Disclosure Cheat Sheet - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html)
+[Intégrer la sécurité au cycle de développement - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/ressources-integration-securite-cycle-developpement)
