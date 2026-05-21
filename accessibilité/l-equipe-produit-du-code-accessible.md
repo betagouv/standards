@@ -20,5 +20,5 @@ doit s'assurer de faire le maximum, par exemple :
 ## Ressources
 
 - [HTML : une bonne base pour l'accessibilité - mozilla.org](https://developer.mozilla.org/fr/docs/Learn_web_development/Core/Accessibility/HTML)
-- [Making the Web Accessible (en) - W3C](https://www.w3.org/WAI/)
+- [Making the Web Accessible (en) - w3.org](https://www.w3.org/WAI/)
 - [Design System de l'État - systeme-de-design.gouv.fr](https://www.systeme-de-design.gouv.fr/)

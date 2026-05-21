@@ -39,7 +39,8 @@ end
 
 Alors('tous les liens en ressource sont labelisés avec le titre et le nom de domaine') do
   links_for_section("Ressources").each do |link|
-    expect(link.text.squish).to match(/\A.* \- [\w\.\-]+\Z/)
+    # heuristique d'un domaine : combinaison de lettres lowercase, de points et de tirets
+    expect(link.text.squish).to match(/\A.* \- [\p{Lower}\p{Digit}\.\-]+\Z/)
   end
 end
 

@@ -43,4 +43,4 @@ l'historique sans apporter de valeur documentaire.
 
 - [Nommage des commits - sillon.incubateur.net](https://sillon.incubateur.net/docs/document/commit-naming/)
 - [Write better commits sur le blog de GitHub (en) - github.blog](https://github.blog/developer-skills/github/write-better-commits-build-better-projects/)
-- [Maintaining version control in coding (en) - GOV.UK](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding)
+- [Maintaining version control in coding (en) - gov.uk](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding)
