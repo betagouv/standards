@@ -9,9 +9,9 @@ environ 60 % des critères du RGAA sont relatifs au code.
 Produire du code sémantique est donc essentiel. Pour cela, l'équipe
 doit s'assurer de faire le maximum, par exemple :
 
-- Utiliser un design system accessible (par exemple, le DSFR)
-- Avoir des compétences front-end en interne
-- Vérifier régulièrement la sémantique du HTML produit
+- utiliser un design system accessible (par exemple, le DSFR)
+- avoir des compétences front-end en interne
+- vérifier régulièrement la sémantique du HTML produit.
 
 ## Critères
 
