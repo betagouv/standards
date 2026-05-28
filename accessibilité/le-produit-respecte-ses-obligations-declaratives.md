@@ -2,73 +2,72 @@
 
 ## Description
 
-Le produit doit respecter ses obligations déclaratives :
+Votre produit faisant partie du numérique d'État, il est soumis à des
+obligations déclaratives qui permettent de mieux comprendre le travail
+mis en œuvre sur l'accessibilité de votre produit. Ces obligations
+incluent quatre documents ainsi que la mention d'accessibilité.
 
-1. Publication de la déclaration d'accessibilité
-2. Lien vers le schéma pluriannuel
-3. Publication d'un plan d'action
+### Page dédiée à l'accessibilité
 
-### Publication de la déclaration d'accessibilité
+Une [page dédiée à l'accessibilité][1] doit être présente et
+accessible depuis votre page d'accueil et chaque page publique de
+votre produit. Cette page, de préférence à l'adresse `/accessibilite`,
+doit mentionner les trois documents suivants.
 
-Le produit doit :
+### Déclaration d'accessiblité
 
-- afficher l’état de conformité du site sur la page d’accueil
-- publier une déclaration de conformité
+La [déclaration d'accessibilité est un document conforme au RGAA][2]
+qui fait l'état des lieux de l'accessibilité sur votre produit. Un
+[modèle de déclaration][3] est disponible sur le site du RGAA. La
+DINUM met aussi à disposition [un générateur de déclaration
+d'accessibilité][4] pour vous aider à produire ce document.
 
-Ces obligations sont valables dès la mise en ligne du site, même si le
-produit n'a pas encore été audité (on indiquera alors la mention
-"Accessibilité : non conforme")
+### Schéma pluriannuel de mise en accessibilité
 
-La déclaration de conformité d'accessibilité est un document
-présentant un état des lieux de conformité d'un produit (taux de
-conformité, signalement des contenus non accessibles, dispositifs
-d’assistance et de contact...). Il doit respecter le [format
-légal](https://accessibilite.numerique.gouv.fr/obligations/declaration-accessibilite/).
+Le [schéma pluriannuel de mise en accessibilité suit aussi les
+règles du RGAA][5]. Il décrit la politique de votre organisation en
+matière d'accessibilité, et vous pouvez donc référencer, par ordre de
+préférence :
 
-Manquer aux obligations déclaratives est passible d'une amende de 20
-000 €, pour chaque année de manquement (l'obligation étant en vigueur
-depuis 2021).
+- celui de votre incubateur
+- sinon celui de votre administration sponsor
+- sinon [celui de beta.gouv.fr][6].
 
-### Lien vers le schéma pluriannuel
+### Plan d'action
 
-Le produit doit référencer la politique d’accessibilité de son
-organisation via un schéma pluri-annuel. Ce document contient entre
-autres :
+Le plan d'action est un document propre à votre produit qui explique
+vos objectifs pour l'année en cours. Consultez par exemple [le plan
+d'action de beta.gouv.fr pour 2026][7].
 
-- des informations sur la personne référente accessibilité numérique
-- les formations et sensibilisations à l'accessibilité prévues
-- l'organisation interne prévue pour mettre en œuvre l'accessibilité
-- etc
+### Mention du niveau de conformité
 
-Le produit doit référencer un schéma, parmi :
+Votre site doit mentionner sur sa page d'accueil et sur toutes ses
+pages visibles une [mention du niveau de conformité au RGAA][8].
 
-- le schéma pluriannuel de son incubateur (s'il existe)
-- le schéma pluriannuel de son administration sponsor à retrouver
-  sur la page Accessibilité du sponsor (si elle existe)
-- le schéma pluriannuel de beta.gouv.fr sinon
+---
 
-### Publication d'un plan d'action
+Manquer à ces obligations déclaratives est passible d'une amende de
+20 000 € pour chaque année de manquement (l'obligation étant en
+vigueur depuis 2021).
 
-L'équipe propose ensuite un plan d'action pour l'année en cours. Il
-s'agit d'une liste ou d'un tableau indiquant les grandes étapes de
-mise en accessibilité. Par exemple :
-
-- Refonte vers le DSFR et amélioration de l'accessibilité du front - S1 2025
-- Formation en interne (atelier Easy Checks menés par beta.gouv.fr - S1 2025
-- Préparation à l'audit - S2 2025
-- Audit de conformité et correction - S2 2025
+[1]: https://accessibilite.numerique.gouv.fr/obligations/mentions-et-pages-obligatoires/#page-accessibilite-et-liens-obligatoires
+[2]: https://accessibilite.numerique.gouv.fr/obligations/declaration-accessibilite/
+[3]: https://accessibilite.numerique.gouv.fr/ressources/modele-de-declaration/
+[4]: https://betagouv.github.io/a11y-generateur-declaration
+[5]: https://accessibilite.numerique.gouv.fr/obligations/schema-pluriannuel/
+[6]: https://beta.gouv.fr/accessibilite/schema-pluriannuel
+[7]: https://beta.gouv.fr/accessibilite/schema-pluriannuel#plan-2026
+[8]: https://accessibilite.numerique.gouv.fr/obligations/mentions-et-pages-obligatoires/#mention-obligatoire-sur-la-page-daccueil
 
 ## Critères
 
-- Le service indique une mention de conformité
-  (non/partiellement/totalement conforme) sur la page d'accueil.
+- Une page dédiée à l'accessibilité est présente sur tout le site
 - Une déclaration d'accessibilité valide est en ligne.
 - Un schéma pluriannuel à jour est lié.
 - Un plan d'action est documenté en ligne.
+- Une mention de conformité est présente sur chaque page
 
 ## Ressources
 
+- [Référentiel général d'amélioration de l'accessibilité (RGAA) - accessibilite.numerique.gouv.fr](https://accessibilite.numerique.gouv.fr/)
 - [Obligations légales d'accessibilite - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/les-standards/accessibilite-and-inclusion/obligations-legales#obligations-legales)
-- [Obligations légales : Déclaration d'accessibilité - numerique.gouv.fr](https://accessibilite.numerique.gouv.fr/obligations/declaration-accessibilite/)
-- [Générateur de déclaration d'accessibilité - betagouv.github.io](https://betagouv.github.io/a11y-generateur-declaration/)
-- [Obligations légales : Schéma pluriannuel de mise en accessibilité - numerique.gouv.fr](https://accessibilite.numerique.gouv.fr/obligations/schema-pluriannuel/)
