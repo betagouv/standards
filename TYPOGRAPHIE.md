@@ -22,6 +22,25 @@ code à deux lettres de la langue cible, par exemple :
 > Writing for GOV.UK (en) - gov.uk
 > Scrittura corsiva (it) - wikipedia.org
 
+Si la description du standard contient beaucoup de liens on utilisera
+la syntaxe de référence numérotée pour les regrouper en toute fin de
+la description du standard :
+
+```md
+# Description
+
+La syntaxe Markdown permet de [regrouper les liens][1] avec
+des [indices numérotés][2] pour [faciliter la lecture][3] de la source.
+
+[1]: etc
+[2]: etc
+[3]: etc
+
+## Critères
+
+[...]
+```
+
 ## Listes
 
 On saute une ligne avant et après une liste. Les items de la liste
