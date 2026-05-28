@@ -61,11 +61,11 @@ vigueur depuis 2021).
 
 ## Critères
 
-- Une page dédiée à l'accessibilité est présente sur tout le site
+- Une page dédiée à l'accessibilité est présente sur tout le site.
 - Une déclaration d'accessibilité valide est en ligne.
 - Un schéma pluriannuel à jour est lié.
 - Un plan d'action est documenté en ligne.
-- Une mention de conformité est présente sur chaque page
+- Une mention de conformité est présente sur chaque page.
 
 ## Ressources
 
