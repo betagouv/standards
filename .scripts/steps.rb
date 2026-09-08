@@ -5,6 +5,7 @@ require 'active_support/core_ext/string'
 require 'active_support/core_ext/object'
 
 require_relative './standard_parser'
+require_relative './standard_mapper'
 
 Soit('un standard') do
   @path = ENV['FILE']
@@ -46,6 +47,14 @@ end
 
 Alors('le standard ne contient pas de balises HTML') do
   expect(@content).not_to match /<[^>]*>/
+end
+
+Alors('chaque critère commence par une majuscule') do
+  StandardMapper.new(@path)
+    .send(:criteria) # don't remember why this is private
+    .each do |criteria|
+    expect(criteria["label"]).to match /^\p{Upper}/
+  end
 end
 
 def links_for_section(section_title)
