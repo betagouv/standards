@@ -22,8 +22,8 @@ vous aider à établir ces indicateurs.
 
 ## Critères
 
-- les indicateurs présentés dans la page stats suivent la matrice impact
-- les indicateurs sont mis à jour avant chaque comité
+- Les indicateurs présentés dans la page stats suivent la matrice impact.
+- Les indicateurs sont mis à jour avant chaque comité.
 
 ## Ressources
 

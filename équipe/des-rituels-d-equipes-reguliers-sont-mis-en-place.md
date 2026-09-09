@@ -29,9 +29,9 @@ revoir aussi la pertinence et le format de ces rituels fréquemment.
 
 ## Critères
 
-- L'équipe organise régulièrement des rituels
-- Les rituels sont formalisés et limités à un but précis
-- Les décisions prises sont documentées
-- La pertinence des rituels d'équipe est régulièrement revue
+- L'équipe organise régulièrement des rituels.
+- Les rituels sont formalisés et limités à un but précis.
+- Les décisions prises sont documentées.
+- La pertinence des rituels d'équipe est régulièrement revue.
 
 ## Ressources

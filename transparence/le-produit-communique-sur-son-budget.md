@@ -50,11 +50,11 @@ La publication du budget se fait deux fois par an :
 
 ## Critères
 
-- La publication du budget est accessible via un lien public
-- La publication du budget est référencée dans la fiche produit de l'Espace Membre
-- La publication du budget est faite deux fois par an
+- La publication du budget est accessible via un lien public.
+- La publication du budget est référencée dans la fiche produit de l'Espace Membre.
+- La publication du budget est faite deux fois par an.
 - La saisie des données est faite sur le Grist de référence et
-  respecte le référentiel proposé
+  respecte le référentiel proposé.
 
 ## Ressources
 

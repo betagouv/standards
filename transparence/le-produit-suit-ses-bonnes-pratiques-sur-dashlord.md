@@ -19,7 +19,7 @@ mesures pour suivre les bonnes pratiques du numérique de l'État.
 
 ## Critères
 
-- Le produit est configuré sur le DashLord de son incubateur
+- Le produit est configuré sur le DashLord de son incubateur.
 
 ## Ressources
 

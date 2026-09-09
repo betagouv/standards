@@ -38,11 +38,11 @@ C'est pourquoi vous devez établir un plan d'action vous permettant de la mener
 
 ## Critères
 
-- L'équipe a inscrit son produit sur Mon Service Sécurisé
+- L'équipe a inscrit son produit sur Mon Service Sécurisé.
 - L'équipe a pris connaissance des critères d'homologation propres à
-son administration
+son administration.
 - L'équipe a établi un plan d'action visant l'homologation de son
-  service
+  service.
 
 ## Ressources
 

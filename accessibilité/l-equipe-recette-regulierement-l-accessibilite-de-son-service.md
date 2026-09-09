@@ -23,8 +23,8 @@ pas de compétences techniques spécifiques.
 
 ## Critères
 
-- L'équipe est formée aux gestes de recette manuelle (Easy Checks)
-- L'équipe recette régulièrement son service
+- L'équipe est formée aux gestes de recette manuelle (Easy Checks).
+- L'équipe recette régulièrement son service.
 
 ## Ressources
 

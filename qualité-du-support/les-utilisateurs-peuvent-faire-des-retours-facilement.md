@@ -22,10 +22,10 @@ traitement des réponses avec des délais clairs.
 
 ## Critères
 
-- Un moyen de contact est visible sur chaque page importante
+- Un moyen de contact est visible sur chaque page importante.
 - L'équipe utilise une adresse e-mail à laquelle les utilisateurs
-  peuvent répondre
-- L'équipe suit et analyse les retours pour améliorer le service
+  peuvent répondre.
+- L'équipe suit et analyse les retours pour améliorer le service.
 
 ## Ressources
 

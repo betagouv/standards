@@ -70,7 +70,7 @@ sont les bienvenus.
   empathique : pour qui est-ce important ?
 - Le standard est facile à comprendre : rédigé de façon claire et
   succinte, il ne se substitue pas à un outil pédagogique et propose
-  des ressources concrètes à cet effet
+  des ressources concrètes à cet effet.
 - Le standard est facile à valider : les critères sont binaires et
   simples à vérifier.
 ```

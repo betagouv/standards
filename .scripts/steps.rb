@@ -57,6 +57,22 @@ Alors('chaque critère commence par une majuscule') do
   end
 end
 
+Alors('chaque critère finit par un point') do
+  StandardMapper.new(@path)
+    .send(:criteria)
+    .each do |criteria|
+    # on ignore les définitions de liens référencés ([1]: http://…) que
+    # Kramdown rattache en fin de critère lorsqu'il contient un lien
+    sentence = criteria["label"]
+      .lines
+      .reject { |line| line.match?(/\A\[\d+\]:/) }
+      .join
+      .strip
+
+    expect(sentence).to end_with('.')
+  end
+end
+
 def links_for_section(section_title)
   section_tree = @parser.content_for_section(section_title)
   html = Kramdown::Document.new(section_tree).to_html

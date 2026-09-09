@@ -31,10 +31,10 @@ Pour y parvenir, trois mesures essentielles s'imposent :
 
 ## Critères
 
-- L'équipe a identifié qui risque d'être exclu du service numérique
+- L'équipe a identifié qui risque d'être exclu du service numérique.
 - Au moins une alternative non-numérique fonctionne (téléphone, guichet,
-  partenaires locaux)
-- Le service évite de demander plusieurs fois les mêmes informations
+  partenaires locaux).
+- Le service évite de demander plusieurs fois les mêmes informations.
 
 ## Ressources
 

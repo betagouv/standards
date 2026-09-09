@@ -36,11 +36,11 @@ Explique le traitement des données personnelles :
 
 ## Critères
 
-- Les trois documents sont accessibles depuis le service (liens en pied de page)
-- Toutes les informations obligatoires sont présentes et exactes
-- Un juriste a validé le contenu
-- Les utilisateurs sont prévenus des modifications importantes
-- Les coordonnées de contact fonctionnent
+- Les trois documents sont accessibles depuis le service (liens en pied de page).
+- Toutes les informations obligatoires sont présentes et exactes.
+- Un juriste a validé le contenu.
+- Les utilisateurs sont prévenus des modifications importantes.
+- Les coordonnées de contact fonctionnent.
 
 ## Ressources
 
