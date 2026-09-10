@@ -23,4 +23,4 @@ Rapprochez-vous de votre référent·e technique pour explorer les options adapt
 ## Ressources
 
 - [Sécurité : proxy d'authentification - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/gestion-au-quotidien/tech/securite-proxy-dauthentification)
-- [Solutions d'authenfication] - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/authentication)
+- [Solutions d'authenfication - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/authentication)
