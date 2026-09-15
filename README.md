@@ -56,8 +56,18 @@ format YAML "machine-readable" avec la commande `make export`.
 Vous pouvez consulter des examples d'export sur [la page des versions
 du projet](https://github.com/betagouv/standards/releases).
 
-## Feuille de route
+## Déploiement d'une nouvelle version
 
-- [X] remplir les descriptions : pourquoi règle X ? peut-être même une checklist pour vérifier [façon WCAG](https://www.w3.org/TR/2016/NOTE-WCAG20-TECHS-20161007/H90))
-- [X] enlever les questions trop floues (i.e "le service est frugal" pas facile à vérifier)
-- [ ] rajouter des propriétés
+Pour faire une nouvelle version des standards, mettre à jour le
+fichier `./VERSION` dans une pull-request puis [créer une nouvelle
+release dans
+GitHub](https://github.com/betagouv/standards/releases/new).
+
+Choisir le même tag que `./VERSION` puis générer le changelog
+automatiquement (corollaire : les changements doivent tous passer par
+des pull-requests).
+
+Une fois la release créée, générer l'export YAML en lançant `make
+export` à la racine du projet. La commande génère un fichier YAML type
+`standards-beta-vX.Y.yml`. Attacher ce fichier YAML aux fichiers de la
+release.
