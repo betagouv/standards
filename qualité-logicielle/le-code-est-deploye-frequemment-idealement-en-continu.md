@@ -20,9 +20,9 @@ déploiements.
 
 ## Critères
 
-- Un pipeline CI/CD automatisé est configuré
-- Les déploiements s'effectuent automatiquement après validation des tests
-- L'équipe déploie au moins une fois par semaine
+- Un pipeline CI/CD automatisé est configuré.
+- Les déploiements s'effectuent automatiquement après validation des tests.
+- L'équipe déploie au moins une fois par semaine.
 
 ## Ressources
 

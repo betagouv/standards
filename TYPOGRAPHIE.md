@@ -57,7 +57,9 @@ des titres ou des sous-titres pour mieux le contenir.
 
 Les items d'une liste démarrent en minuscule lorsqu'ils s'inscrivent
 au fil du texte et en majuscule dans un contexte indépendant comme les
-critères d'un standard.
+critères d'un standard. Dans ce dernier cas, chaque item est une phrase
+à part entière : il commence par une majuscule et se termine par un
+point.
 
 ## Glossaire
 

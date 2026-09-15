@@ -19,7 +19,7 @@ fonctions :
 
 ## Critères
 
-- Un comité d'investissement a lieu au moins tous les 6 mois
+- Un comité d'investissement a lieu au moins tous les 6 mois.
 
 ## Ressources
 

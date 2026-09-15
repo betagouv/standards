@@ -27,10 +27,10 @@ OpenAPI/Swagger pour permettre une meilleure prise en main par les
 
 ## Critères
 
-- Un README présente succintement l'objectif du service
-- La pile technique et l'architecture du produit sont renseignées
-- Les APIs sont documentées avec la spécification OpenAPI/Swagger
-- Des instructions pour lancer le service en local sont disponibles
+- Un README présente succintement l'objectif du service.
+- La pile technique et l'architecture du produit sont renseignées.
+- Les APIs sont documentées avec la spécification OpenAPI/Swagger.
+- Des instructions pour lancer le service en local sont disponibles.
 
 ## Ressources
 

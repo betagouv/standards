@@ -51,9 +51,9 @@ cette méthode dans le cadre de l'homologation de leurs services.
 
 ## Critères
 
-- L'équipe a choisi une méthode d'analyse de risques
+- L'équipe a choisi une méthode d'analyse de risques.
 - L'équipe réévalue les risques cyber à chaque évolution majeure du
-  service
+  service.
 
 ## Ressources
 

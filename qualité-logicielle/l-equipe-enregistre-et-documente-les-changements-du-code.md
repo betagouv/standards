@@ -33,11 +33,11 @@ l'historique sans apporter de valeur documentaire.
 
 ## Critères
 
-- Le code source utilise un gestionnaire de version type Git
+- Le code source utilise un gestionnaire de version type Git.
 - Les messages de commit décrivent clairement les modifications et
-  leurs raisons
+  leurs raisons.
 - Les commits intermédiaires sont regroupés avant publication pour
-  maintenir un historique lisible
+  maintenir un historique lisible.
 
 ## Ressources
 

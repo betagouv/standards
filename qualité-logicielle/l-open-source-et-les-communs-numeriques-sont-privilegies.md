@@ -18,9 +18,9 @@ de l'État élaborée par la DINUM.
 
 ## Critères
 
-- L'équipe produit du code open-source
+- L'équipe produit du code open-source.
 - L'équipe privilégie des solutions ouvertes et souveraines pour le
-  reste
+  reste.
 
 ## Ressources
 

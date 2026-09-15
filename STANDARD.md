@@ -66,12 +66,12 @@ sont les bienvenus.
 
 ## Critères
 
-- le standard justifie sa valeur grâce à un mode de rédaction
+- Le standard justifie sa valeur grâce à un mode de rédaction
   empathique : pour qui est-ce important ?
-- le standard est facile à comprendre : rédigé de façon claire et
+- Le standard est facile à comprendre : rédigé de façon claire et
   succinte, il ne se substitue pas à un outil pédagogique et propose
-  des ressources concrètes à cet effet
-- le standard est facile à valider : les critères sont binaires et
+  des ressources concrètes à cet effet.
+- Le standard est facile à valider : les critères sont binaires et
   simples à vérifier.
 ```
 

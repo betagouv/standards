@@ -53,17 +53,17 @@ néanmoins attendu :
 
 ## Critères
 
-- La fiche produit est publiée et présente sur [l'annuaire des réalisations de beta.gouv.fr](https://beta.gouv.fr/startups/)
-- Le lien du produit est renseigné
-- Le lien vers la page statistiques est renseigné
-- Le lien vers la page budget est renseigné
-- Le lien vers le code source est renseigné
-- La description explique le problème, son contexte et ses usagers
-- La description explique la solution et l'impact attendu
-- Les objectifs fixés au dernier comité d'investissement sont renseignés
+- La fiche produit est publiée et présente sur [l'annuaire des réalisations de beta.gouv.fr](https://beta.gouv.fr/startups/).
+- Le lien du produit est renseigné.
+- Le lien vers la page statistiques est renseigné.
+- Le lien vers la page budget est renseigné.
+- Le lien vers le code source est renseigné.
+- La description explique le problème, son contexte et ses usagers.
+- La description explique la solution et l'impact attendu.
+- Les objectifs fixés au dernier comité d'investissement sont renseignés.
 - La description présente la stratégie de déploiement / les prochaines
-  étapes du produit
-- Un email de contact est renseigné
+  étapes du produit.
+- Un email de contact est renseigné.
 
 ## Ressources
 

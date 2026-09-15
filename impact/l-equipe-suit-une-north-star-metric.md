@@ -20,7 +20,7 @@ vous aider à établir cet indicateur.
 
 ## Critères
 
-- L'équipe suit une North Star Metric
+- L'équipe suit une North Star Metric.
 
 ## Ressources
 

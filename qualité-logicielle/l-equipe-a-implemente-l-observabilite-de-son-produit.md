@@ -36,9 +36,9 @@ métriques : temps moyen des requêtes,
 
 ## Critères
 
-- Un outil de gestion d'erreurs est configuré
-- Les journaux applicatifs sont consultables
-- La performance de l'outil est surveillée
+- Un outil de gestion d'erreurs est configuré.
+- Les journaux applicatifs sont consultables.
+- La performance de l'outil est surveillée.
 
 ## Ressources
 

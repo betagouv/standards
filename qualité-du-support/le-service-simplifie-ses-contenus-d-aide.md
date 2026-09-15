@@ -18,11 +18,11 @@ utilisateurs.
 
 ## Critères
 
-- Les contenus d'aide sont rédigés en français simple (niveau collège)
+- Les contenus d'aide sont rédigés en français simple (niveau collège).
 - Les contenus d'aide sont fréquemment révisés en fonction des
-  demandes support
+  demandes support.
 - Une FAQ facilement accessible répond aux questions les plus
-  fréquentes
+  fréquentes.
 
 ## Ressources
 

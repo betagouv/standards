@@ -27,10 +27,10 @@ déploiement (CI/CD).
 
 ## Critères
 
-- Une suite de tests unitaires est en place
-- Une suite de tests d'intégration est en place
-- Les tests conditionnent l'intégration de nouveau code (CI)
-- Les tests conditionnent le déploiement de nouveau code (CD)
+- Une suite de tests unitaires est en place.
+- Une suite de tests d'intégration est en place.
+- Les tests conditionnent l'intégration de nouveau code (CI).
+- Les tests conditionnent le déploiement de nouveau code (CD).
 
 ## Ressources
 
