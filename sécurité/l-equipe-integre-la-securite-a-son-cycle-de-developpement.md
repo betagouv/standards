@@ -2,37 +2,38 @@
 
 ## Description
 
-La sécurité d'un service numérique ne peut pas être traitée comme une
-étape isolée ou un simple jalon : elle doit être intégrée
-naturellement tout au long du cycle de développement, de la conception
-à la production.
+Une vulnérabilité coûte d'autant plus cher à corriger qu'elle est
+découverte tard. Identifiée à la conception, elle se règle par une
+décision d'architecture. Découverte en production, elle mobilise
+l'équipe en urgence et expose les données de vos utilisateurs.
 
-Cette approche, appelée « security by design » ou « shift left »,
-permet d'identifier et de corriger les vulnérabilités au plus tôt,
-quand elles sont encore peu coûteuses à résoudre. Elle évite
-l'accumulation d'une dette de sécurité qui devient difficile à
-résorber par la suite.
+Intégrer la sécurité au cycle de développement, c'est répartir les
+vérifications sur toute la chaîne — conception, revue de code,
+intégration continue, production — au lieu de les concentrer dans un
+audit final. L'équipe évite ainsi d'accumuler une dette de sécurité
+qu'elle devra résorber d'un coup.
 
-Au-delà des bonnes pratiques de codage sécurisé, cette intégration
-passe par la sensibilisation de toute l'équipe, l'automatisation des
-vérifications de sécurité dans vos pipelines, et la mise en place
-d'une surveillance continue en production. Chaque membre de l'équipe,
-quel que soit son rôle, doit avoir conscience des enjeux de sécurité
-et savoir comment contribuer à un produit plus robuste.
+### Automatiser plutôt que rappeler
 
-Cette approche s'inscrit dans la philosophie beta.gouv.fr de
-construction itérative et de qualité continue : la sécurité n'est pas
-un obstacle au déploiement rapide, mais un critère de qualité à
-maintenir à chaque itération.
+Un contrôle automatisé dans le pipeline d'intégration continue
+s'applique à chaque changement, sans dépendre de la vigilance de la
+personne qui livre. Analyse statique du code, détection de secrets
+commités par erreur, alertes sur les vulnérabilités connues des
+dépendances : ces contrôles arrêtent une régression avant sa mise en
+production.
 
 ## Critères
 
-- Les mécanismes de sécurité du service sont documentés (authentification,
-  contrôle d'accès, gestion des logs, validation des données, cryptographie)
-- L'équipe est sensibilisée aux bonnes pratiques de développement sécurisé
-- Des tests de sécurité automatisés sont intégrés au pipeline d'intégration continue
-- Des mesures de surveillance continue sont en place en production
+- L'équipe documente les mécanismes de sécurité de son service :
+  authentification, contrôle d'accès, validation des données,
+  journalisation et cryptographie.
+- L'équipe relit le code de chaque changement avant sa mise en
+  production.
+- L'équipe a intégré des contrôles de sécurité automatisés à son
+  pipeline d'intégration continue.
+- L'équipe est alertée des vulnérabilités connues de ses dépendances.
 
 ## Ressources
 
 - [Intégrer la sécurité au cycle de développement - doc.incubateur.net](https://doc.incubateur.net/communaute/gerer-son-produit/aide-a-la-mise-en-application-des-standards/securite/ressources-integration-securite-cycle-developpement)
+- [OWASP Top 10 des failles de sécurité (en) - owasp.org](https://owasp.org/www-project-top-ten/)
