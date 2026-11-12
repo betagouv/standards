@@ -2,6 +2,9 @@ name: Vérification du contenu des fiches
 
 on: push
 
+permissions:
+  contents: read
+
 jobs:
   linting:
     runs-on: ubuntu-latest
