@@ -12,7 +12,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.4.6
           bundler-cache: true
       - name: "Check standard content structure"
         run: make check-standards
